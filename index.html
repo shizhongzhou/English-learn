@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>English Learn · 分级英语学习</title>
+<meta name="description" content="按 CEFR A1–C2 分级的免费英语学习网站：全部分级词汇（点击发音）、情景对话、听力练习、近期新闻（慢速/正常/倍速朗读，逐句中文翻译）。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='2' y='20' width='6' height='10' fill='%232F9C5A'/%3E%3Crect x='9' y='15' width='6' height='15' fill='%232C6BD4'/%3E%3Crect x='16' y='9' width='6' height='21' fill='%235A4AD1'/%3E%3Crect x='23' y='3' width='6' height='27' fill='%23C2334D'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#/">
+    <svg viewBox="0 0 32 32" aria-hidden="true"><rect x="2" y="20" width="6" height="10"/><rect x="9" y="15" width="6" height="15"/><rect x="16" y="9" width="6" height="21"/><rect x="23" y="3" width="6" height="27"/></svg>
+    <span>English Learn</span>
+  </a>
+  <nav class="levelnav" id="levelnav" aria-label="等级"></nav>
+  <button class="iconbtn" id="settingsBtn" aria-label="发音设置" title="发音设置">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z"/><path d="M16 8.5a5 5 0 0 1 0 7M18.5 6a8.5 8.5 0 0 1 0 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+  </button>
+</header>
+
+<main id="app" tabindex="-1"></main>
+
+<div class="sheet" id="settings" hidden>
+  <div class="sheet-card" role="dialog" aria-labelledby="settingsTitle">
+    <h2 id="settingsTitle">发音设置</h2>
+    <label class="field">口音
+      <div class="seg" data-setting="accent">
+        <button data-v="us">美式</button><button data-v="uk">英式</button>
+      </div>
+    </label>
+    <label class="field">朗读引擎
+      <div class="seg" data-setting="engine">
+        <button data-v="auto">自动</button><button data-v="online">在线真人</button><button data-v="tts">浏览器语音</button>
+      </div>
+    </label>
+    <p class="hint">自动：单词用在线词典发音，句子用浏览器自带的英语语音（可调速、对话分男女声）。如果句子没有声音，请切换到“在线真人”。</p>
+    <button class="btn" id="settingsClose">完成</button>
+  </div>
+</div>
+
+<div class="wordpop" id="wordpop" hidden></div>
+
+<footer class="foot">
+  <p>词汇等级依据 <a href="https://github.com/openlanguageprofiles/olp-en-cefrj" target="_blank" rel="noopener">CEFR-J Wordlist（东京外国语大学 投野研究室）与 Octanove C1/C2 词表</a>，C1/C2 扩展词与音标、释义来自 <a href="https://github.com/skywind3000/ECDICT" target="_blank" rel="noopener">ECDICT</a>。新闻为根据公开报道改写的分级学习材料，原文链接见每篇文末。</p>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

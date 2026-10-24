@@ -1,0 +1,188 @@
+{
+  "dialogues": [
+    {
+      "id": "a1-d1", "title": "Nice to meet you", "titleZh": "很高兴认识你", "scene": "两个新同学第一次见面",
+      "speakers": {"Lily": "f", "Tom": "m"},
+      "lines": [
+        {"s": "Lily", "en": "Hi! I'm Lily. What's your name?", "zh": "嗨！我叫莉莉。你叫什么名字？"},
+        {"s": "Tom", "en": "Hello, Lily. My name is Tom.", "zh": "你好，莉莉。我叫汤姆。"},
+        {"s": "Lily", "en": "Nice to meet you, Tom.", "zh": "很高兴认识你，汤姆。"},
+        {"s": "Tom", "en": "Nice to meet you too. Where are you from?", "zh": "我也很高兴认识你。你是哪里人？"},
+        {"s": "Lily", "en": "I'm from China. And you?", "zh": "我来自中国。你呢？"},
+        {"s": "Tom", "en": "I'm from Canada.", "zh": "我来自加拿大。"},
+        {"s": "Lily", "en": "How old are you?", "zh": "你多大了？"},
+        {"s": "Tom", "en": "I'm twenty. And you?", "zh": "我二十岁。你呢？"},
+        {"s": "Lily", "en": "I'm nineteen.", "zh": "我十九岁。"},
+        {"s": "Tom", "en": "See you in class!", "zh": "课上见！"}
+      ]
+    },
+    {
+      "id": "a1-d2", "title": "At the café", "titleZh": "在咖啡馆", "scene": "顾客点饮料",
+      "speakers": {"Waiter": "m", "Anna": "f"},
+      "lines": [
+        {"s": "Waiter", "en": "Good morning. What would you like?", "zh": "早上好。您想要点什么？"},
+        {"s": "Anna", "en": "A cup of coffee, please.", "zh": "请给我一杯咖啡。"},
+        {"s": "Waiter", "en": "With milk?", "zh": "要加牛奶吗？"},
+        {"s": "Anna", "en": "Yes, please. And no sugar.", "zh": "要的，谢谢。不要糖。"},
+        {"s": "Waiter", "en": "Anything to eat?", "zh": "要吃点什么吗？"},
+        {"s": "Anna", "en": "Can I have a chocolate cake?", "zh": "能给我一块巧克力蛋糕吗？"},
+        {"s": "Waiter", "en": "Sure. That's six dollars.", "zh": "当然。一共六美元。"},
+        {"s": "Anna", "en": "Here you are.", "zh": "给你。"},
+        {"s": "Waiter", "en": "Thank you. Have a nice day!", "zh": "谢谢。祝您今天愉快！"}
+      ]
+    },
+    {
+      "id": "a1-d3", "title": "My family", "titleZh": "我的家人", "scene": "两个朋友看照片聊家人",
+      "speakers": {"Sam": "m", "Mia": "f"},
+      "lines": [
+        {"s": "Sam", "en": "Is this your family?", "zh": "这是你的家人吗？"},
+        {"s": "Mia", "en": "Yes. This is my mother, and this is my father.", "zh": "是的。这是我妈妈，这是我爸爸。"},
+        {"s": "Sam", "en": "Who is the boy?", "zh": "那个男孩是谁？"},
+        {"s": "Mia", "en": "He's my brother, Leo. He is ten.", "zh": "他是我弟弟利奥。他十岁。"},
+        {"s": "Sam", "en": "Do you have a sister?", "zh": "你有姐妹吗？"},
+        {"s": "Mia", "en": "No, I don't. Do you have brothers or sisters?", "zh": "没有。你有兄弟姐妹吗？"},
+        {"s": "Sam", "en": "I have one sister. She is a teacher.", "zh": "我有一个姐姐。她是老师。"},
+        {"s": "Mia", "en": "Cool! And you have a dog, right?", "zh": "真酷！你还有一只狗，对吧？"},
+        {"s": "Sam", "en": "Yes, his name is Max. He is very big!", "zh": "对，它叫马克斯。它特别大！"}
+      ]
+    },
+    {
+      "id": "a1-d4", "title": "What time is it?", "titleZh": "现在几点？", "scene": "在公交车站问时间",
+      "speakers": {"Ben": "m", "Woman": "f"},
+      "lines": [
+        {"s": "Ben", "en": "Excuse me, what time is it?", "zh": "打扰一下，现在几点？"},
+        {"s": "Woman", "en": "It's half past eight.", "zh": "八点半。"},
+        {"s": "Ben", "en": "Thank you. When is the next bus?", "zh": "谢谢。下一班公交车是几点？"},
+        {"s": "Woman", "en": "At a quarter to nine.", "zh": "八点四十五分。"},
+        {"s": "Ben", "en": "Oh no, I'm late for work!", "zh": "糟了，我上班要迟到了！"},
+        {"s": "Woman", "en": "Don't worry. The bus is always fast.", "zh": "别担心。这班车总是开得很快。"},
+        {"s": "Ben", "en": "I hope so. Thanks again!", "zh": "希望如此。再次感谢！"}
+      ]
+    },
+    {
+      "id": "a1-d5", "title": "Shopping for clothes", "titleZh": "买衣服", "scene": "在服装店",
+      "speakers": {"Assistant": "f", "David": "m"},
+      "lines": [
+        {"s": "Assistant", "en": "Hello. Can I help you?", "zh": "你好。需要帮忙吗？"},
+        {"s": "David", "en": "Yes. I want a T-shirt.", "zh": "是的。我想买一件T恤。"},
+        {"s": "Assistant", "en": "What color do you like?", "zh": "你喜欢什么颜色？"},
+        {"s": "David", "en": "Blue, please.", "zh": "蓝色。"},
+        {"s": "Assistant", "en": "What size?", "zh": "要什么尺码？"},
+        {"s": "David", "en": "Medium. How much is it?", "zh": "中号。多少钱？"},
+        {"s": "Assistant", "en": "It's fifteen dollars.", "zh": "十五美元。"},
+        {"s": "David", "en": "OK. I'll take it.", "zh": "好的。我买了。"}
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "id": "a1-l1", "title": "My day", "titleZh": "我的一天",
+      "voice": "f",
+      "sentences": [
+        {"en": "My name is Emma.", "zh": "我叫艾玛。"},
+        {"en": "I get up at seven o'clock.", "zh": "我七点起床。"},
+        {"en": "I have bread and milk for breakfast.", "zh": "我早餐吃面包、喝牛奶。"},
+        {"en": "I go to school by bike.", "zh": "我骑自行车去上学。"},
+        {"en": "School starts at eight thirty.", "zh": "学校八点半开始上课。"},
+        {"en": "In the evening, I do my homework and watch TV.", "zh": "晚上，我写作业、看电视。"},
+        {"en": "I go to bed at ten.", "zh": "我十点睡觉。"}
+      ],
+      "questions": [
+        {"q": "What time does Emma get up?", "qZh": "艾玛几点起床？", "options": ["At six", "At seven", "At eight"], "answer": 1},
+        {"q": "How does she go to school?", "qZh": "她怎么去上学？", "options": ["By bus", "On foot", "By bike"], "answer": 2},
+        {"q": "What does she have for breakfast?", "qZh": "她早餐吃什么？", "options": ["Bread and milk", "Rice and eggs", "Cake and juice"], "answer": 0}
+      ]
+    },
+    {
+      "id": "a1-l2", "title": "My room", "titleZh": "我的房间",
+      "voice": "m",
+      "sentences": [
+        {"en": "This is my room.", "zh": "这是我的房间。"},
+        {"en": "It is small, but I like it.", "zh": "它很小，但我喜欢它。"},
+        {"en": "There is a bed next to the window.", "zh": "窗户旁边有一张床。"},
+        {"en": "My desk is in front of the bed.", "zh": "我的书桌在床的前面。"},
+        {"en": "There are three books and a lamp on the desk.", "zh": "书桌上有三本书和一盏台灯。"},
+        {"en": "My cat often sleeps under the desk.", "zh": "我的猫经常在书桌下睡觉。"}
+      ],
+      "questions": [
+        {"q": "Where is the bed?", "qZh": "床在哪里？", "options": ["Next to the door", "Next to the window", "Under the desk"], "answer": 1},
+        {"q": "How many books are on the desk?", "qZh": "书桌上有几本书？", "options": ["Two", "Three", "Four"], "answer": 1},
+        {"q": "Where does the cat sleep?", "qZh": "猫在哪里睡觉？", "options": ["On the bed", "Under the desk", "In the kitchen"], "answer": 1}
+      ]
+    },
+    {
+      "id": "a1-l3", "title": "The weather", "titleZh": "天气",
+      "voice": "f",
+      "sentences": [
+        {"en": "Good morning! Here is the weather for today.", "zh": "早上好！下面是今天的天气。"},
+        {"en": "In the morning, it is sunny and warm.", "zh": "上午晴朗温暖。"},
+        {"en": "In the afternoon, it is cloudy.", "zh": "下午多云。"},
+        {"en": "In the evening, it will rain.", "zh": "晚上会下雨。"},
+        {"en": "Take an umbrella with you!", "zh": "记得带伞！"},
+        {"en": "It is twenty degrees today.", "zh": "今天二十度。"}
+      ],
+      "questions": [
+        {"q": "What is the weather like in the morning?", "qZh": "上午天气怎么样？", "options": ["Rainy", "Sunny", "Snowy"], "answer": 1},
+        {"q": "When will it rain?", "qZh": "什么时候会下雨？", "options": ["In the morning", "In the afternoon", "In the evening"], "answer": 2},
+        {"q": "How warm is it today?", "qZh": "今天多少度？", "options": ["Twelve degrees", "Twenty degrees", "Thirty degrees"], "answer": 1}
+      ]
+    },
+    {
+      "id": "a1-l4", "title": "At the supermarket", "titleZh": "在超市",
+      "voice": "m",
+      "sentences": [
+        {"en": "Today I go to the supermarket with my mum.", "zh": "今天我和妈妈去超市。"},
+        {"en": "We buy apples, bananas and eggs.", "zh": "我们买了苹果、香蕉和鸡蛋。"},
+        {"en": "My mum also buys some fish for dinner.", "zh": "妈妈还买了一些鱼做晚饭。"},
+        {"en": "I want ice cream, but she says no.", "zh": "我想要冰淇淋，但她说不行。"},
+        {"en": "Everything costs twenty-five dollars.", "zh": "所有东西一共二十五美元。"}
+      ],
+      "questions": [
+        {"q": "Who goes to the supermarket with the boy?", "qZh": "谁和男孩一起去超市？", "options": ["His dad", "His mum", "His sister"], "answer": 1},
+        {"q": "What do they buy for dinner?", "qZh": "他们买了什么做晚饭？", "options": ["Fish", "Chicken", "Rice"], "answer": 0},
+        {"q": "How much does everything cost?", "qZh": "一共花了多少钱？", "options": ["$15", "$25", "$35"], "answer": 1}
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "a1-n1", "title": "Birds are more afraid of women", "titleZh": "鸟更怕女性", "date": "2026-10-22", "category": "动物",
+      "source": {"name": "British Ecological Society", "url": "https://www.britishecologicalsociety.org/content/urban-birds-fear-women-more-than-men/"},
+      "sentences": [
+        {"en": "Scientists watched birds in city parks.", "zh": "科学家观察了城市公园里的鸟。"},
+        {"en": "They worked in five countries in Europe.", "zh": "他们在欧洲的五个国家开展研究。"},
+        {"en": "A man or a woman walked slowly to a bird.", "zh": "一名男性或女性慢慢走向一只鸟。"},
+        {"en": "The men and women wore the same clothes.", "zh": "这些男性和女性穿着同样的衣服。"},
+        {"en": "The birds flew away faster from women.", "zh": "鸟在女性靠近时飞走得更快。"},
+        {"en": "Men could get about one metre closer.", "zh": "男性能再靠近大约一米。"},
+        {"en": "Why? The scientists do not know.", "zh": "为什么？科学家也不知道。"}
+      ]
+    },
+    {
+      "id": "a1-n2", "title": "A long drive on Mars", "titleZh": "在火星上的长途旅行", "date": "2026-10-11", "category": "太空",
+      "source": {"name": "Guinness World Records", "url": "https://www.guinnessworldrecords.com/news/2026/10/nasas-perseverance-rover-breaks-the-record-for-longest-road-trip-on-mars"},
+      "sentences": [
+        {"en": "Perseverance is a robot car on Mars.", "zh": "“毅力号”是火星上的一辆机器人车。"},
+        {"en": "It is from NASA in the United States.", "zh": "它来自美国国家航空航天局（NASA）。"},
+        {"en": "It went to Mars in 2021.", "zh": "它在2021年到达火星。"},
+        {"en": "Now it has driven more than 45 kilometres.", "zh": "现在它已经行驶了超过45公里。"},
+        {"en": "This is a new record.", "zh": "这是一项新纪录。"},
+        {"en": "No car has driven so far on another world.", "zh": "没有任何车在另一个星球上开过这么远。"},
+        {"en": "The rover looks for very old rocks.", "zh": "这辆火星车在寻找非常古老的岩石。"}
+      ]
+    },
+    {
+      "id": "a1-n3", "title": "A small robot can swim", "titleZh": "一个会游泳的小机器人", "date": "2026-09-29", "category": "科技",
+      "source": {"name": "MIT News", "url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929"},
+      "sentences": [
+        {"en": "Scientists at MIT made a very small robot.", "zh": "麻省理工学院的科学家做了一个非常小的机器人。"},
+        {"en": "It is thin, like paper.", "zh": "它很薄，像纸一样。"},
+        {"en": "It has two fins, like a fish.", "zh": "它有两个鳍，像鱼一样。"},
+        {"en": "The fins have real muscle cells.", "zh": "鳍上有真正的肌肉细胞。"},
+        {"en": "When light shines on a fin, the fin moves.", "zh": "当光照在一个鳍上时，这个鳍就会动。"},
+        {"en": "The robot can swim and turn in water.", "zh": "这个机器人能在水里游泳和转弯。"},
+        {"en": "It can even swim through a small maze.", "zh": "它甚至能游过一个小迷宫。"}
+      ]
+    }
+  ]
+}

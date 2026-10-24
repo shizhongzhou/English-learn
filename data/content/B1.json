@@ -1,0 +1,190 @@
+{
+  "dialogues": [
+    {
+      "id": "b1-d1", "title": "A job interview", "titleZh": "求职面试", "scene": "应聘咖啡店兼职",
+      "speakers": {"Manager": "f", "Chen": "m"},
+      "lines": [
+        {"s": "Manager", "en": "Thanks for coming in, Chen. Could you tell me a bit about yourself?", "zh": "谢谢你过来，陈。能简单介绍一下你自己吗？"},
+        {"s": "Chen", "en": "Sure. I'm a second-year student studying business, and I'm looking for a part-time job.", "zh": "当然。我是商科专业的大二学生，正在找一份兼职工作。"},
+        {"s": "Manager", "en": "Have you ever worked in a café before?", "zh": "你以前在咖啡馆工作过吗？"},
+        {"s": "Chen", "en": "Not in a café, but I worked in a fast-food restaurant last summer, so I'm used to busy shifts.", "zh": "没在咖啡馆做过，但去年夏天我在一家快餐店工作，所以习惯了忙碌的班次。"},
+        {"s": "Manager", "en": "That's useful. What would you do if a customer complained about their order?", "zh": "这很有用。如果顾客投诉他们点的东西，你会怎么做？"},
+        {"s": "Chen", "en": "I'd listen carefully, apologise, and offer to make it again. If it was still a problem, I'd ask a manager for help.", "zh": "我会认真听，道歉，并提出重新做一份。如果还解决不了，我会请经理帮忙。"},
+        {"s": "Manager", "en": "Good answer. How many hours a week are you available?", "zh": "回答得好。你每周能工作多少小时？"},
+        {"s": "Chen", "en": "About fifteen. I'm free on weekends and on Tuesday and Thursday afternoons.", "zh": "大概十五个小时。我周末以及周二、周四下午有空。"},
+        {"s": "Manager", "en": "That works for us. Do you have any questions?", "zh": "这对我们来说可以。你有什么问题吗？"},
+        {"s": "Chen", "en": "Yes — will there be any training at the start?", "zh": "有——刚开始会有培训吗？"},
+        {"s": "Manager", "en": "Definitely. You'd spend your first two shifts with one of our baristas. We'll let you know by Friday.", "zh": "当然会。前两个班你会跟着我们的一位咖啡师。我们会在周五前通知你。"}
+      ]
+    },
+    {
+      "id": "b1-d2", "title": "Returning a product", "titleZh": "退货", "scene": "在商店退换有问题的耳机",
+      "speakers": {"Customer": "f", "Clerk": "m"},
+      "lines": [
+        {"s": "Customer", "en": "Hi, I bought these headphones here last week, but the left side has stopped working.", "zh": "你好，我上周在这里买了这副耳机，但左边已经不响了。"},
+        {"s": "Clerk", "en": "I'm sorry to hear that. Do you have the receipt?", "zh": "很抱歉听到这个。你有收据吗？"},
+        {"s": "Customer", "en": "Yes, here it is. I paid by card.", "zh": "有，在这里。我是刷卡付的。"},
+        {"s": "Clerk", "en": "Thanks. Would you like a replacement or a refund?", "zh": "谢谢。你想换一副新的还是退款？"},
+        {"s": "Customer", "en": "Actually, I'm not sure. Are the replacements the same model?", "zh": "其实我不太确定。换的还是同一个型号吗？"},
+        {"s": "Clerk", "en": "Yes, but we also have a newer model that's only ten pounds more. It has better battery life.", "zh": "是的，不过我们还有一款更新的型号，只贵十英镑，续航更好。"},
+        {"s": "Customer", "en": "Hmm, I think I'll just take the refund. I want to read some reviews first.", "zh": "嗯，我还是退款吧。我想先看看评价。"},
+        {"s": "Clerk", "en": "No problem. The money will go back to your card in three to five working days.", "zh": "没问题。钱会在三到五个工作日内退回你的卡里。"},
+        {"s": "Customer", "en": "Perfect. Thanks for your help.", "zh": "很好。谢谢你的帮助。"}
+      ]
+    },
+    {
+      "id": "b1-d3", "title": "Sharing a flat", "titleZh": "合租的烦恼", "scene": "室友商量家务分工",
+      "speakers": {"Emma": "f", "Ryan": "m"},
+      "lines": [
+        {"s": "Emma", "en": "Ryan, have you got a minute? I wanted to talk about the kitchen.", "zh": "瑞安，你有空吗？我想聊聊厨房的事。"},
+        {"s": "Ryan", "en": "Sure. Is something wrong?", "zh": "当然。出什么事了吗？"},
+        {"s": "Emma", "en": "Well, the dishes often stay in the sink for days, and I end up washing them.", "zh": "嗯，碗碟经常在水槽里放好几天，最后都是我来洗。"},
+        {"s": "Ryan", "en": "Oh, sorry. I've been really busy with exams, but that's not an excuse.", "zh": "哦，抱歉。我最近忙着考试，但这不是借口。"},
+        {"s": "Emma", "en": "I understand. Maybe we could make a cleaning timetable?", "zh": "我理解。也许我们可以做一个打扫值日表？"},
+        {"s": "Ryan", "en": "Good idea. How about I do the dishes on weekdays, and you do them at weekends?", "zh": "好主意。工作日我洗碗，周末你洗，怎么样？"},
+        {"s": "Emma", "en": "That sounds fair. And we could take turns taking out the rubbish.", "zh": "听起来很公平。倒垃圾我们也可以轮流。"},
+        {"s": "Ryan", "en": "Deal. I'll put the timetable on the fridge tonight.", "zh": "成交。我今晚就把值日表贴在冰箱上。"},
+        {"s": "Emma", "en": "Thanks for being so reasonable about it.", "zh": "谢谢你这么通情达理。"}
+      ]
+    },
+    {
+      "id": "b1-d4", "title": "A delayed flight", "titleZh": "航班延误", "scene": "机场柜台询问延误情况",
+      "speakers": {"Passenger": "m", "Agent": "f"},
+      "lines": [
+        {"s": "Passenger", "en": "Excuse me, my flight to Berlin has been delayed. Do you know how long it will be?", "zh": "打扰一下，我去柏林的航班延误了。你知道要延误多久吗？"},
+        {"s": "Agent", "en": "I'm afraid there's a technical problem with the plane. We expect a delay of at least three hours.", "zh": "恐怕飞机有技术故障。预计至少延误三个小时。"},
+        {"s": "Passenger", "en": "Three hours? I have a connecting flight in Berlin. I'm going to miss it.", "zh": "三个小时？我在柏林还要转机，肯定赶不上了。"},
+        {"s": "Agent", "en": "Let me check. Where's your final destination?", "zh": "我查一下。你的最终目的地是哪里？"},
+        {"s": "Passenger", "en": "Warsaw.", "zh": "华沙。"},
+        {"s": "Agent", "en": "I can put you on a direct flight to Warsaw that leaves in ninety minutes from Gate 22.", "zh": "我可以给你改到一班直飞华沙的航班，九十分钟后从22号登机口出发。"},
+        {"s": "Passenger", "en": "That would be great. What about my suitcase?", "zh": "那太好了。我的行李箱怎么办？"},
+        {"s": "Agent", "en": "We'll transfer it for you. And here's a voucher for a meal while you wait.", "zh": "我们会帮你转运。这是一张餐券，等候时可以用。"},
+        {"s": "Passenger", "en": "Thank you, you've been very helpful.", "zh": "谢谢，你帮了大忙。"}
+      ]
+    },
+    {
+      "id": "b1-d5", "title": "Choosing a phone plan", "titleZh": "选手机套餐", "scene": "在营业厅咨询套餐",
+      "speakers": {"Lucy": "f", "Seller": "m"},
+      "lines": [
+        {"s": "Lucy", "en": "Hi, I'm looking for a cheaper phone plan. I'm paying too much at the moment.", "zh": "你好，我想找一个便宜点的手机套餐。我现在付的太多了。"},
+        {"s": "Seller", "en": "How much data do you usually use each month?", "zh": "你通常每月用多少流量？"},
+        {"s": "Lucy", "en": "Not much, maybe five gigabytes. I'm usually on Wi-Fi at home and at work.", "zh": "不多，大概5G。我在家和单位一般都连无线网。"},
+        {"s": "Seller", "en": "Then this plan might suit you: ten gigabytes and unlimited calls for twelve euros a month.", "zh": "那这个套餐可能适合你：每月12欧元，10G流量，通话不限。"},
+        {"s": "Lucy", "en": "That's half what I pay now! Is there a contract?", "zh": "这只有我现在的一半！需要签合约吗？"},
+        {"s": "Seller", "en": "It's a twelve-month contract, but there's also a monthly option for fifteen euros.", "zh": "是12个月的合约，不过也有按月付的选项，15欧元。"},
+        {"s": "Lucy", "en": "I'll go for the monthly one. I don't like being tied in.", "zh": "我选按月的。我不喜欢被合约绑住。"},
+        {"s": "Seller", "en": "Sensible choice. I just need to see some ID and we can set it up.", "zh": "明智的选择。我只需要看一下你的证件就可以办理了。"}
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "id": "b1-l1", "title": "A podcast about sleep", "titleZh": "关于睡眠的播客", "voice": "f",
+      "sentences": [
+        {"en": "Welcome back to Healthy Habits. Today we're talking about sleep.", "zh": "欢迎回到《健康习惯》。今天我们来聊睡眠。"},
+        {"en": "Most adults need between seven and nine hours a night, but many people get far less.", "zh": "大多数成年人每晚需要七到九小时的睡眠，但很多人睡得远远不够。"},
+        {"en": "One of the biggest problems is screens.", "zh": "最大的问题之一是屏幕。"},
+        {"en": "The light from phones can make your brain think it's still daytime.", "zh": "手机发出的光会让你的大脑以为现在还是白天。"},
+        {"en": "Experts suggest putting your phone away at least an hour before bed.", "zh": "专家建议至少在睡前一小时把手机放到一边。"},
+        {"en": "It also helps to go to bed and wake up at the same time every day, even at weekends.", "zh": "每天同一时间上床和起床也有帮助，周末也一样。"},
+        {"en": "And if you can't sleep after twenty minutes, get up and read a book until you feel tired.", "zh": "如果躺了二十分钟还睡不着，就起来看会儿书，直到感到困。"}
+      ],
+      "questions": [
+        {"q": "How much sleep do most adults need?", "qZh": "大多数成年人需要多少睡眠？", "options": ["5–6 hours", "7–9 hours", "10–11 hours"], "answer": 1},
+        {"q": "Why are phones bad before bed?", "qZh": "为什么睡前玩手机不好？", "options": ["They are too loud", "Their light confuses the brain", "They make you hungry"], "answer": 1},
+        {"q": "What should you do if you can't sleep after twenty minutes?", "qZh": "躺了二十分钟还睡不着该怎么办？", "options": ["Check your phone", "Get up and read", "Drink coffee"], "answer": 1}
+      ]
+    },
+    {
+      "id": "b1-l2", "title": "Museum audio guide", "titleZh": "博物馆语音导览", "voice": "m",
+      "sentences": [
+        {"en": "Welcome to the City Museum. You are now standing in the main hall.", "zh": "欢迎来到城市博物馆。您现在位于主大厅。"},
+        {"en": "This building was originally a railway station, built in 1885.", "zh": "这栋建筑最初是一座火车站，建于1885年。"},
+        {"en": "It became a museum in 1974, after the trains stopped running.", "zh": "火车停运后，它在1974年改为博物馆。"},
+        {"en": "If you look up, you can see the original glass roof.", "zh": "抬头看，您能看到原来的玻璃屋顶。"},
+        {"en": "On your left is our most popular exhibition, about the history of the city's port.", "zh": "您左边是我们最受欢迎的展览，讲述城市港口的历史。"},
+        {"en": "Please note that photography is not allowed in the special exhibition upstairs.", "zh": "请注意，楼上的特展区禁止拍照。"},
+        {"en": "The café on the ground floor is open until five.", "zh": "一楼的咖啡馆营业到五点。"}
+      ],
+      "questions": [
+        {"q": "What was the building before it was a museum?", "qZh": "这栋建筑改成博物馆前是什么？", "options": ["A school", "A railway station", "A factory"], "answer": 1},
+        {"q": "When did it become a museum?", "qZh": "它什么时候成为博物馆的？", "options": ["1885", "1947", "1974"], "answer": 2},
+        {"q": "Where is photography not allowed?", "qZh": "哪里不允许拍照？", "options": ["In the main hall", "In the special exhibition", "In the café"], "answer": 1}
+      ]
+    },
+    {
+      "id": "b1-l3", "title": "Learning to cook", "titleZh": "学做饭", "voice": "f",
+      "sentences": [
+        {"en": "When I moved out of my parents' house, I couldn't cook at all.", "zh": "我搬出父母家的时候，完全不会做饭。"},
+        {"en": "For the first few months, I lived on instant noodles and takeaways.", "zh": "最开始几个月，我靠方便面和外卖过日子。"},
+        {"en": "Then I realised I was spending most of my money on food.", "zh": "后来我意识到我大部分钱都花在了吃上。"},
+        {"en": "So I started watching cooking videos and trying one new recipe every week.", "zh": "于是我开始看做饭视频，每周尝试一道新菜。"},
+        {"en": "Some of them were disasters — I once burned rice so badly that the smoke alarm went off.", "zh": "有些简直是灾难——有一次我把米饭烧得太糊，烟雾报警器都响了。"},
+        {"en": "But now I can make about twenty dishes, and I save around two hundred dollars a month.", "zh": "但现在我会做大约二十道菜，每月能省下约两百美元。"}
+      ],
+      "questions": [
+        {"q": "What did the speaker eat at first?", "qZh": "说话者一开始吃什么？", "options": ["Home-cooked meals", "Noodles and takeaways", "Food from his parents"], "answer": 1},
+        {"q": "Why did the speaker start cooking?", "qZh": "说话者为什么开始做饭？", "options": ["To save money", "To lose weight", "For a job"], "answer": 0},
+        {"q": "What happened when the rice burned?", "qZh": "米饭烧糊时发生了什么？", "options": ["The kitchen caught fire", "The smoke alarm went off", "A neighbour complained"], "answer": 1}
+      ]
+    },
+    {
+      "id": "b1-l4", "title": "Volunteering", "titleZh": "做志愿者", "voice": "m",
+      "sentences": [
+        {"en": "Every Saturday morning, I volunteer at an animal shelter near my home.", "zh": "每周六上午，我都在家附近的一家动物收容所做志愿者。"},
+        {"en": "I mostly walk the dogs and clean the cages.", "zh": "我主要是遛狗和打扫笼子。"},
+        {"en": "It isn't always easy, especially in winter when it's cold and wet.", "zh": "这并不总是轻松的，尤其是冬天又冷又湿的时候。"},
+        {"en": "But it's very rewarding to see an animal find a new home.", "zh": "但看到一只动物找到新家，真的很有成就感。"},
+        {"en": "Last month, a dog I had looked after for almost a year was finally adopted.", "zh": "上个月，我照顾了将近一年的一只狗终于被领养了。"},
+        {"en": "I was a bit sad to say goodbye, but mostly I was happy for him.", "zh": "告别时我有点难过，但更多的是为它高兴。"}
+      ],
+      "questions": [
+        {"q": "Where does the speaker volunteer?", "qZh": "说话者在哪里做志愿者？", "options": ["At a hospital", "At an animal shelter", "At a school"], "answer": 1},
+        {"q": "When is the work most difficult?", "qZh": "什么时候工作最辛苦？", "options": ["In summer", "In winter", "At night"], "answer": 1},
+        {"q": "How did the speaker feel when the dog was adopted?", "qZh": "狗被领养时说话者感觉如何？", "options": ["Only sad", "Angry", "Mostly happy"], "answer": 2}
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "b1-n1", "title": "Swiss glaciers lose a fifth of their ice in five years", "titleZh": "瑞士冰川五年内失去五分之一的冰", "date": "2026-10-01", "category": "环境",
+      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years"},
+      "sentences": [
+        {"en": "Switzerland's glaciers lost 5.5 percent of their ice this year, according to a new report.", "zh": "根据一份新报告，瑞士冰川今年失去了5.5%的冰量。"},
+        {"en": "Since 2021, they have lost nearly 20 percent in total.", "zh": "自2021年以来，它们总共失去了近20%。"},
+        {"en": "The report was published by the Swiss Glacier Monitoring Network, known as GLAMOS.", "zh": "该报告由瑞士冰川监测网络（简称GLAMOS）发布。"},
+        {"en": "Scientists say there were two main reasons: very little snow in winter and a record-hot summer.", "zh": "科学家说主要有两个原因：冬季降雪很少，以及创纪录的炎热夏季。"},
+        {"en": "On one glacier, researchers found that three metres of ice had melted in just two months.", "zh": "在一座冰川上，研究人员发现仅两个月就融化了三米厚的冰。"},
+        {"en": "Between July and September, the melting released about 2.2 trillion litres of water.", "zh": "七月到九月间，融化释放了约2.2万亿升水。"},
+        {"en": "That is more than four times the water that all Swiss homes use in a year.", "zh": "这是全瑞士家庭一年用水量的四倍多。"},
+        {"en": "Experts warn that most of the Alps' ice could disappear by 2100 if global warming continues.", "zh": "专家警告，如果全球变暖持续，到2100年阿尔卑斯山的大部分冰可能会消失。"}
+      ]
+    },
+    {
+      "id": "b1-n2", "title": "Tiny robot swims using real muscle", "titleZh": "靠真实肌肉游动的小机器人", "date": "2026-09-29", "category": "科技",
+      "source": {"name": "MIT News", "url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929"},
+      "sentences": [
+        {"en": "Engineers at MIT have built a paper-thin robot that swims using living muscle cells.", "zh": "麻省理工学院的工程师造出了一个薄如纸、靠活体肌肉细胞游动的机器人。"},
+        {"en": "The robot is about the size of a stick of chewing gum.", "zh": "这个机器人大约有一片口香糖那么大。"},
+        {"en": "Its body is made of a soft gel, and each of its two fins is covered with a thin layer of muscle.", "zh": "它的身体由柔软的凝胶制成，两个鳍上各覆盖着一层薄薄的肌肉。"},
+        {"en": "The muscle cells were changed so that they react to light.", "zh": "这些肌肉细胞经过改造，能对光作出反应。"},
+        {"en": "When a light flashes on a fin, the muscle contracts and the fin flaps.", "zh": "当光闪到一个鳍上时，肌肉收缩，鳍就会拍动。"},
+        {"en": "By changing which fin gets light, the researchers could steer the robot through a small water maze.", "zh": "通过改变照射哪一个鳍，研究人员能引导机器人穿过一个小型水中迷宫。"},
+        {"en": "In the future, robots like this could be used to monitor water or explore delicate places.", "zh": "将来，这样的机器人可能被用于监测水质或探索脆弱的环境。"}
+      ]
+    },
+    {
+      "id": "b1-n3", "title": "Honeybees push wild insects off flowers", "titleZh": "蜜蜂把野生昆虫赶下花朵", "date": "2026-10-14", "category": "动物",
+      "source": {"name": "Anglia Ruskin University", "url": "https://www.aru.ac.uk/news/honeybees-exert-flower-power-over-other-species"},
+      "sentences": [
+        {"en": "Honeybees are often seen as friends of nature, but a new study shows they can be bullies.", "zh": "蜜蜂常被视为大自然的朋友，但一项新研究表明它们也会“欺负”别人。"},
+        {"en": "Researchers in and around Cambridge, in the UK, watched insects on bramble and ivy flowers for two years.", "zh": "英国剑桥及周边的研究人员花两年时间观察了黑莓和常春藤花上的昆虫。"},
+        {"en": "They found that honeybees often chased bumblebees, hoverflies and other insects away from the flowers.", "zh": "他们发现蜜蜂经常把熊蜂、食蚜蝇等昆虫从花上赶走。"},
+        {"en": "Where there were twice as many honeybees, there were 14 percent fewer bumblebees.", "zh": "在蜜蜂数量翻倍的地方，熊蜂数量减少了14%。"},
+        {"en": "The fights were more common on hot days, possibly because flowers produce less nectar in the heat.", "zh": "炎热天气里争斗更常见，可能是因为高温下花朵产生的花蜜更少。"},
+        {"en": "The number of beekeepers in the UK has more than doubled since 2010.", "zh": "自2010年以来，英国养蜂人数量增加了一倍多。"},
+        {"en": "The scientists say they are not against beekeeping, but cities need to plan where hives are placed.", "zh": "科学家说他们并不反对养蜂，但城市需要规划蜂箱的放置位置。"}
+      ]
+    }
+  ]
+}

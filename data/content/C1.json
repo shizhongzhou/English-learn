@@ -1,0 +1,184 @@
+{
+  "dialogues": [
+    {
+      "id": "c1-d1", "title": "Giving difficult feedback", "titleZh": "给出不好听的反馈", "scene": "经理与下属一对一面谈",
+      "speakers": {"Helen": "f", "Daniel": "m"},
+      "lines": [
+        {"s": "Helen", "en": "Thanks for making time, Daniel. I wanted to talk about how the product launch went from your perspective.", "zh": "谢谢你抽出时间，丹尼尔。我想听听从你的角度看，产品发布进行得怎么样。"},
+        {"s": "Daniel", "en": "Honestly, I think it went reasonably well, given how tight the timeline was.", "zh": "说实话，考虑到时间那么紧，我觉得还算顺利。"},
+        {"s": "Helen", "en": "I agree the end result was solid. What I'd like to unpack is the communication with the design team along the way.", "zh": "我同意最终结果不错。我想仔细谈谈的是过程中你和设计团队的沟通。"},
+        {"s": "Daniel", "en": "Has someone raised a concern?", "zh": "有人提出意见了吗？"},
+        {"s": "Helen", "en": "A couple of people mentioned that changes were being made without them being looped in, which meant some of their work had to be redone.", "zh": "有几个人提到，修改时没有通知他们，导致他们的部分工作只能返工。"},
+        {"s": "Daniel", "en": "That's fair, actually. I was so focused on hitting the deadline that I cut corners on keeping everyone informed.", "zh": "这么说其实没错。我太专注于赶截止日期，在通知大家这件事上偷了懒。"},
+        {"s": "Helen", "en": "I appreciate you owning that. It's an easy trap to fall into under pressure.", "zh": "感谢你愿意承担。压力之下很容易掉进这个坑。"},
+        {"s": "Daniel", "en": "Would it help if I set up a short weekly sync with design for the next project?", "zh": "下一个项目我和设计团队每周开个简短的同步会，会有帮助吗？"},
+        {"s": "Helen", "en": "That would go a long way. And it might be worth checking in with them now, just to clear the air.", "zh": "那会很有帮助。也许现在就和他们聊聊，把误会说开。"},
+        {"s": "Daniel", "en": "I'll do that this afternoon. Thanks for being straight with me.", "zh": "我今天下午就去。谢谢你对我直言不讳。"}
+      ]
+    },
+    {
+      "id": "c1-d2", "title": "Debating remote work", "titleZh": "辩论远程办公", "scene": "两位同事讨论公司回归办公室的政策",
+      "speakers": {"Olivia": "f", "Marcus": "m"},
+      "lines": [
+        {"s": "Olivia", "en": "Did you see the email? Management wants everyone back in the office four days a week from January.", "zh": "你看到邮件了吗？管理层要求从一月起每周四天回办公室。"},
+        {"s": "Marcus", "en": "I did. To be honest, I'm not entirely opposed to it. I've found it hard to switch off at home.", "zh": "看到了。老实说，我并不完全反对。我发现在家很难真正下班。"},
+        {"s": "Olivia", "en": "I get that, but for those of us with long commutes, it's an extra ten hours a week on the train.", "zh": "我理解，但对我们这些通勤很远的人来说，每周要在火车上多花十个小时。"},
+        {"s": "Marcus", "en": "That's a fair point. Still, I think junior staff in particular lose out when nobody's around to learn from.", "zh": "这一点说得对。不过我认为，尤其是新员工，身边没人可以请教时损失最大。"},
+        {"s": "Olivia", "en": "Granted, but that could be addressed by having teams agree on two shared days rather than imposing a blanket rule.", "zh": "这我承认，但可以让各团队商定两个共同到岗日来解决，而不是一刀切。"},
+        {"s": "Marcus", "en": "Mm, I suppose a one-size-fits-all policy does ignore the fact that different roles have different needs.", "zh": "嗯，一刀切的政策确实忽视了不同岗位需求不同这一事实。"},
+        {"s": "Olivia", "en": "Exactly. And there's a real risk we'll lose good people to competitors who offer more flexibility.", "zh": "正是。而且我们真的有可能把优秀员工流失给那些更灵活的竞争对手。"},
+        {"s": "Marcus", "en": "Why don't we put together some feedback for the staff forum next week? A constructive proposal is more likely to be heard than a complaint.", "zh": "要不我们为下周的员工论坛整理一些反馈？建设性的提议比抱怨更可能被听进去。"},
+        {"s": "Olivia", "en": "Good idea. Let's draft something tomorrow.", "zh": "好主意。我们明天起草一份吧。"}
+      ]
+    },
+    {
+      "id": "c1-d3", "title": "Planning a surprise party", "titleZh": "策划惊喜派对", "scene": "两个朋友为共同好友筹备派对",
+      "speakers": {"Zoe": "f", "Liam": "m"},
+      "lines": [
+        {"s": "Zoe", "en": "So, have you managed to track down a venue for Hannah's thirtieth?", "zh": "汉娜三十岁生日的场地你找到了吗？"},
+        {"s": "Liam", "en": "Sort of. There's a room above a pub in town that's free on the fourteenth, but it only holds about forty people.", "zh": "算是吧。城里一家酒吧楼上有个房间14号有空，但只能容纳四十人左右。"},
+        {"s": "Zoe", "en": "That might be cutting it fine. The guest list is already pushing fifty.", "zh": "那可能有点紧。宾客名单已经快五十人了。"},
+        {"s": "Liam", "en": "We could always trim it down. Not everyone on there is that close to her.", "zh": "我们总可以删减一些。名单上不是每个人都跟她那么亲近。"},
+        {"s": "Zoe", "en": "True, but I'd rather not risk offending anyone. What about her sister's garden as a backup?", "zh": "没错，但我不想冒得罪人的风险。要不把她姐姐家的花园作为备选？"},
+        {"s": "Liam", "en": "In November? We'd be at the mercy of the weather.", "zh": "十一月？那我们就得看天气脸色了。"},
+        {"s": "Zoe", "en": "Fair. OK, let's book the pub room and keep the list tight. The bigger issue is keeping it a secret.", "zh": "也对。好吧，就订酒吧的房间，把名单控制好。更大的问题是保密。"},
+        {"s": "Liam", "en": "Leave that to me. I'll tell her we're just going out for a quiet drink, the two of us.", "zh": "交给我吧。我就跟她说只是我们俩出去安静地喝一杯。"},
+        {"s": "Zoe", "en": "Perfect. Just don't let it slip — you're notoriously bad at keeping secrets.", "zh": "完美。只是别说漏嘴——你保守秘密的能力是出了名的差。"}
+      ]
+    },
+    {
+      "id": "c1-d4", "title": "A medical consultation", "titleZh": "医疗咨询", "scene": "病人与医生讨论治疗方案",
+      "speakers": {"Patient": "m", "Doctor": "f"},
+      "lines": [
+        {"s": "Doctor", "en": "Your blood test results are back. Your cholesterol is on the high side, though not dangerously so.", "zh": "你的验血结果出来了。胆固醇偏高，不过还不到危险的程度。"},
+        {"s": "Patient", "en": "Does that mean I'll need to go on medication?", "zh": "这是不是意味着我得吃药了？"},
+        {"s": "Doctor", "en": "Not necessarily. At this stage, I'd generally recommend trying lifestyle changes for three months first.", "zh": "不一定。现阶段我一般建议先尝试三个月的生活方式调整。"},
+        {"s": "Patient", "en": "What sort of changes are we talking about?", "zh": "需要做哪些改变？"},
+        {"s": "Doctor", "en": "Cutting back on saturated fat, eating more fibre, and aiming for at least 150 minutes of moderate exercise a week.", "zh": "减少饱和脂肪，多吃膳食纤维，并争取每周至少150分钟的中等强度运动。"},
+        {"s": "Patient", "en": "I'll be honest, the exercise is where I usually struggle.", "zh": "说实话，运动是我通常最难坚持的。"},
+        {"s": "Doctor", "en": "It doesn't have to be the gym. Brisk walking counts, as does cycling to work.", "zh": "不一定要去健身房。快走也算，骑车上班也算。"},
+        {"s": "Patient", "en": "That sounds more manageable. And if the numbers haven't improved after three months?", "zh": "这听起来更可行。那如果三个月后指标没有改善呢？"},
+        {"s": "Doctor", "en": "Then we'd discuss medication, weighing up the benefits against any side effects. But many people see a real difference.", "zh": "那我们再讨论用药，权衡其好处和副作用。不过很多人都会看到明显改善。"}
+      ]
+    },
+    {
+      "id": "c1-d5", "title": "Pitching an idea", "titleZh": "推销一个创意", "scene": "创业者向投资人做简短陈述",
+      "speakers": {"Founder": "f", "Investor": "m"},
+      "lines": [
+        {"s": "Founder", "en": "Every year, supermarkets throw away millions of tonnes of food that's still perfectly edible.", "zh": "每年，超市都会扔掉数百万吨仍然完全可以食用的食物。"},
+        {"s": "Founder", "en": "Our app connects stores with local customers who can buy that surplus at a steep discount before closing time.", "zh": "我们的应用把商店和本地顾客连接起来，让顾客能在关门前以大幅折扣购买这些剩余食品。"},
+        {"s": "Investor", "en": "There are already a few players in this space. What sets you apart?", "zh": "这个领域已经有几家公司了。你们有什么不同？"},
+        {"s": "Founder", "en": "We integrate directly with stores' stock systems, so listings update automatically — staff don't have to do anything manually.", "zh": "我们直接对接商店的库存系统，商品信息自动更新——员工无需任何手动操作。"},
+        {"s": "Investor", "en": "Interesting. What kind of traction have you had so far?", "zh": "有意思。目前你们取得了什么样的进展？"},
+        {"s": "Founder", "en": "We launched in two cities six months ago. We now have 120 partner stores and around 40,000 active users.", "zh": "我们六个月前在两个城市上线，现在有120家合作门店，约4万名活跃用户。"},
+        {"s": "Investor", "en": "And how do you make money?", "zh": "那你们怎么盈利？"},
+        {"s": "Founder", "en": "We take a fifteen percent commission on each sale. Stores are happy because they're recovering revenue they'd otherwise lose entirely.", "zh": "我们对每笔交易抽取15%佣金。商店也乐意，因为他们挽回了原本会完全损失的收入。"},
+        {"s": "Investor", "en": "I'd like to see your numbers in more detail. Can you send over your financials this week?", "zh": "我想更详细地看看你们的数据。这周能把财务资料发给我吗？"}
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "id": "c1-l1", "title": "The science of habit", "titleZh": "习惯的科学", "voice": "m",
+      "sentences": [
+        {"en": "Habits, according to neuroscientists, are the brain's way of saving effort.", "zh": "神经科学家认为，习惯是大脑节省力气的方式。"},
+        {"en": "When a behaviour is repeated in a stable context, control gradually shifts from deliberate decision-making to more automatic processes.", "zh": "当一种行为在稳定的情境中反复进行时，控制权会逐渐从有意识的决策转向更自动化的过程。"},
+        {"en": "This is why it's so easy to reach for your phone the moment you wake up: the cue triggers the action before you've consciously thought about it.", "zh": "这就是为什么一醒来就很容易伸手拿手机：在你有意识地思考之前，提示就已触发了动作。"},
+        {"en": "Contrary to the popular claim that a habit takes 21 days to form, one widely cited study found the average was closer to 66 days, with enormous variation between individuals.", "zh": "与“21天养成一个习惯”的流行说法相反，一项被广泛引用的研究发现平均需要约66天，且个体差异极大。"},
+        {"en": "Researchers suggest that the most effective strategy isn't relying on willpower, but redesigning your environment so that the desired behaviour becomes the easiest option.", "zh": "研究人员认为，最有效的策略不是依靠意志力，而是重新设计环境，让理想的行为成为最容易的选择。"}
+      ],
+      "questions": [
+        {"q": "What happens when a behaviour is repeated in a stable context?", "qZh": "当一种行为在稳定情境中重复时会怎样？", "options": ["It becomes more deliberate", "It becomes more automatic", "It becomes harder"], "answer": 1},
+        {"q": "What did the study find about habit formation?", "qZh": "关于习惯养成，研究发现了什么？", "options": ["It takes exactly 21 days", "It averages around 66 days", "It takes a year"], "answer": 1},
+        {"q": "What is described as the most effective strategy?", "qZh": "什么被认为是最有效的策略？", "options": ["Using willpower", "Rewarding yourself", "Changing your environment"], "answer": 2}
+      ]
+    },
+    {
+      "id": "c1-l2", "title": "Lost languages", "titleZh": "消失的语言", "voice": "f",
+      "sentences": [
+        {"en": "Of the roughly seven thousand languages spoken today, linguists estimate that around forty percent are endangered.", "zh": "在当今使用的约七千种语言中，语言学家估计约有百分之四十濒临消失。"},
+        {"en": "Many have only a handful of elderly speakers, and children are no longer learning them at home.", "zh": "许多语言只剩寥寥几位年长的使用者，孩子们在家已不再学习它们。"},
+        {"en": "When a language disappears, it takes with it unique ways of describing the world — from knowledge of local plants to systems of counting and kinship.", "zh": "一种语言消失时，它独特的描述世界的方式也随之而去——从当地植物的知识到计数和亲属称谓体系。"},
+        {"en": "Revitalisation efforts have had some striking successes; Welsh, for instance, now has more young speakers than it did a few decades ago.", "zh": "语言复兴工作取得了一些显著成功；例如，威尔士语如今的年轻使用者比几十年前更多。"},
+        {"en": "Technology is playing a growing role, with communities recording elders and building apps to teach vocabulary.", "zh": "科技的作用日益增大，各社区纷纷为长者录音，并开发应用来教授词汇。"},
+        {"en": "Yet experts stress that no app can replace a language being spoken naturally within families.", "zh": "然而专家强调，任何应用都无法取代语言在家庭中被自然使用。"}
+      ],
+      "questions": [
+        {"q": "Roughly what proportion of languages are endangered?", "qZh": "大约多大比例的语言濒临消失？", "options": ["10%", "40%", "70%"], "answer": 1},
+        {"q": "Which language is given as a success story?", "qZh": "哪种语言被举为成功案例？", "options": ["Welsh", "Latin", "Irish"], "answer": 0},
+        {"q": "What do experts say about technology?", "qZh": "专家如何看待科技？", "options": ["It has saved most languages", "It cannot replace use within families", "It is harmful"], "answer": 1}
+      ]
+    },
+    {
+      "id": "c1-l3", "title": "The paradox of choice", "titleZh": "选择的悖论", "voice": "m",
+      "sentences": [
+        {"en": "We tend to assume that more options make us happier, but a famous experiment suggested otherwise.", "zh": "我们往往以为选择越多越幸福，但一个著名实验却表明并非如此。"},
+        {"en": "Shoppers who were offered a sample of 24 jams were far less likely to buy one than those offered just six.", "zh": "面对24种果酱试吃的顾客，购买的可能性远低于只面对6种的顾客。"},
+        {"en": "The explanation was that too many options lead to decision fatigue and a fear of choosing wrongly.", "zh": "解释是：选项过多会导致决策疲劳和害怕选错。"},
+        {"en": "Later research, however, has produced mixed results, and the effect seems to depend heavily on context.", "zh": "然而后来的研究结果不一，这种效应似乎在很大程度上取决于情境。"},
+        {"en": "When people already know what they want, a wide range is genuinely helpful; when they don't, it can be paralysing.", "zh": "当人们已经清楚自己想要什么时，丰富的选择确实有帮助；当他们不清楚时，选择多反而会让人无所适从。"}
+      ],
+      "questions": [
+        {"q": "In the experiment, which group bought more jam?", "qZh": "实验中哪组人买的果酱更多？", "options": ["Those offered 24 jams", "Those offered 6 jams", "Both bought the same"], "answer": 1},
+        {"q": "What has later research shown?", "qZh": "后来的研究表明了什么？", "options": ["The effect always appears", "The results are mixed", "The original study was fake"], "answer": 1},
+        {"q": "When is a wide range of options helpful?", "qZh": "什么时候丰富的选择有帮助？", "options": ["When people know what they want", "When people are tired", "Never"], "answer": 0}
+      ]
+    },
+    {
+      "id": "c1-l4", "title": "Sleep and memory", "titleZh": "睡眠与记忆", "voice": "f",
+      "sentences": [
+        {"en": "For a long time, sleep was thought of as a passive state, a kind of switching off.", "zh": "长期以来，睡眠被认为是一种被动状态，类似于关机。"},
+        {"en": "We now know that the brain is remarkably active during the night, particularly when it comes to memory.", "zh": "现在我们知道大脑在夜间非常活跃，尤其是在记忆方面。"},
+        {"en": "During deep sleep, the hippocampus appears to replay experiences from the day, helping to transfer them into long-term storage.", "zh": "在深度睡眠中，海马体似乎会重放白天的经历，帮助把它们转入长期存储。"},
+        {"en": "Students who sleep after studying consistently outperform those who stay up, even when total study time is the same.", "zh": "学习后睡觉的学生，表现一直优于熬夜的学生，即使总学习时间相同。"},
+        {"en": "So the all-nighter before an exam may be one of the least effective revision strategies there is.", "zh": "所以考前通宵可能是效果最差的复习策略之一。"}
+      ],
+      "questions": [
+        {"q": "How was sleep traditionally viewed?", "qZh": "过去人们如何看待睡眠？", "options": ["As an active state", "As a passive state", "As dangerous"], "answer": 1},
+        {"q": "What does the hippocampus seem to do during deep sleep?", "qZh": "深度睡眠时海马体似乎在做什么？", "options": ["Replay the day's experiences", "Shut down completely", "Create dreams only"], "answer": 0},
+        {"q": "What is said about all-nighters?", "qZh": "关于通宵复习说了什么？", "options": ["They are very effective", "They are among the least effective strategies", "They help long-term memory"], "answer": 1}
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "c1-n1", "title": "Climate change behind most of Europe's summer heat deaths", "titleZh": "欧洲夏季高温死亡大多归因于气候变化", "date": "2026-10-23", "category": "健康",
+      "source": {"name": "Democracy Now! (headline summary)", "url": "https://www.democracynow.org/2026/10/23/headlines"},
+      "sentences": [
+        {"en": "A newly published study has put the death toll from this summer's heatwaves across Europe at roughly 50,000.", "zh": "一项新发表的研究将今夏欧洲热浪造成的死亡人数估计为约5万人。"},
+        {"en": "Crucially, the researchers attribute around two-thirds of those deaths to human-caused climate change.", "zh": "关键在于，研究人员将其中约三分之二的死亡归因于人为造成的气候变化。"},
+        {"en": "Their analysis drew on data from 854 cities, which means that deaths in rural areas were not captured.", "zh": "他们的分析基于854座城市的数据，这意味着农村地区的死亡并未被统计在内。"},
+        {"en": "As a result, the authors caution that the true figure is almost certainly higher.", "zh": "因此，作者提醒，真实数字几乎肯定更高。"},
+        {"en": "Unlike floods or storms, heatwaves rarely cause visible destruction, so their human cost often goes underreported.", "zh": "与洪水或风暴不同，热浪很少造成肉眼可见的破坏，因此其人员代价常被低估。"},
+        {"en": "Most victims are elderly people or those with existing health conditions, many of whom die alone at home.", "zh": "大多数遇难者是老年人或有基础疾病的人，其中许多人独自在家中去世。"},
+        {"en": "Public health experts argue that heat should be treated as a major disaster risk, with dedicated warning systems and cooling centres.", "zh": "公共卫生专家主张，应将高温视为重大灾害风险，配备专门的预警系统和避暑中心。"}
+      ]
+    },
+    {
+      "id": "c1-n2", "title": "Alpine glaciers past 'peak water', scientists warn", "titleZh": "科学家警告：阿尔卑斯冰川已越过“融水峰值”", "date": "2026-10-01", "category": "环境",
+      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years"},
+      "sentences": [
+        {"en": "Swiss glaciers shed 5.5 percent of their remaining volume over the past year, bringing their losses since 2021 to almost a fifth.", "zh": "瑞士冰川在过去一年失去了剩余体积的5.5%，使其自2021年以来的损失接近五分之一。"},
+        {"en": "The figures come from the national monitoring network GLAMOS, whose teams take end-of-summer measurements on dozens of glaciers.", "zh": "这些数据来自国家监测网络GLAMOS，其团队在夏末对数十座冰川进行测量。"},
+        {"en": "A winter with scant snowfall left the ice exposed, and a record-breaking summer did the rest.", "zh": "降雪稀少的冬季让冰面裸露，破纪录的夏季则完成了剩下的“工作”。"},
+        {"en": "In some places, glacier tongues dropped by as much as ten metres in a single season.", "zh": "在某些地方，冰舌在一个季节内下降了多达十米。"},
+        {"en": "Beyond tourism, the losses matter because glacial meltwater feeds hydropower reservoirs and major European rivers.", "zh": "除了旅游业，这些损失之所以重要，是因为冰川融水为水电站水库和欧洲主要河流提供水源。"},
+        {"en": "One glaciologist warned that Alpine glaciers have already passed their peak meltwater supply, meaning summer flows will steadily decline.", "zh": "一位冰川学家警告，阿尔卑斯冰川已越过融水供应峰值，这意味着夏季流量将持续下降。"},
+        {"en": "Projections suggest that rapid emissions cuts could preserve about a third of the ice, while strong warming could wipe out more than 90 percent by 2100.", "zh": "预测显示，快速减排可保住约三分之一的冰量，而强烈升温则可能在2100年前使九成以上的冰消失。"}
+      ]
+    },
+    {
+      "id": "c1-n3", "title": "Light-controlled muscle robot navigates a maze", "titleZh": "光控肌肉机器人穿越迷宫", "date": "2026-09-29", "category": "科技",
+      "source": {"name": "MIT News", "url": "https://news.mit.edu/2026/powered-by-muscle-cells-paper-thin-robot-swims-through-watery-maze-0929"},
+      "sentences": [
+        {"en": "Researchers at MIT have developed a soft swimming robot propelled by living skeletal muscle rather than motors.", "zh": "麻省理工学院的研究人员开发出一种软体游泳机器人，它由活体骨骼肌而非马达驱动。"},
+        {"en": "The device consists of a gel film roughly half a millimetre thick, with a layer of muscle thinner than a human hair on each fin.", "zh": "该装置由约半毫米厚的凝胶薄膜构成，每个鳍上有一层比头发还细的肌肉。"},
+        {"en": "The cells were genetically engineered to contract in response to light, allowing each fin to be controlled independently.", "zh": "这些细胞经过基因改造，能在光照下收缩，从而可以独立控制每个鳍。"},
+        {"en": "By flashing light on one fin or the other at different intervals, the team could adjust both the robot's speed and its direction.", "zh": "通过以不同间隔向某一侧的鳍闪光，团队可以同时调整机器人的速度和方向。"},
+        {"en": "Grooves stamped into the gel helped the muscle cells align into stronger fibres, increasing the force they produced.", "zh": "压印在凝胶上的凹槽帮助肌肉细胞排列成更强壮的纤维，提高了产生的力量。"},
+        {"en": "Guided by a hand-held light, the robot swam through a small water maze at up to four body lengths per minute.", "zh": "在手持光源的引导下，机器人以每分钟最多四个身长的速度游过了一个小型水中迷宫。"},
+        {"en": "The researchers envisage such biohybrid machines being used for delicate tasks such as environmental monitoring.", "zh": "研究人员设想将这类生物混合机器用于环境监测等精细任务。"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "dialogues": [
+    {
+      "id": "c2-d1", "title": "An ethics committee", "titleZh": "伦理委员会讨论", "scene": "两位研究人员讨论数据隐私",
+      "speakers": {"Dr. Shaw": "f", "Dr. Okafor": "m"},
+      "lines": [
+        {"s": "Dr. Shaw", "en": "My reservation about the proposal isn't the research question itself, which is perfectly legitimate, but the consent process.", "zh": "我对这个提案的保留意见不在研究问题本身——它完全正当——而在知情同意流程。"},
+        {"s": "Dr. Okafor", "en": "You mean the fact that participants agree to their data being reused for 'related studies'?", "zh": "你是说参与者同意其数据被用于“相关研究”这一点？"},
+        {"s": "Dr. Shaw", "en": "Precisely. 'Related' is doing an awful lot of work in that sentence. It's elastic enough to cover almost anything.", "zh": "正是。“相关”这个词在那句话里承担了太多含义，弹性大到几乎可以涵盖任何事情。"},
+        {"s": "Dr. Okafor", "en": "I take the point, but if we insist on fresh consent for every secondary use, a great deal of valuable research simply won't get done.", "zh": "我明白你的意思，但如果每次二次使用都要求重新征得同意，大量有价值的研究就根本做不成。"},
+        {"s": "Dr. Shaw", "en": "I'm not suggesting anything so absolutist. A tiered model — where people can opt into broad, narrow or no reuse — would strike a better balance.", "zh": "我并不是主张那么绝对。分级模式——让人们选择广泛复用、有限复用或不复用——能取得更好的平衡。"},
+        {"s": "Dr. Okafor", "en": "That's not unreasonable, though I suspect most people tick whichever box requires the least reading.", "zh": "这并非不合理，不过我怀疑大多数人会勾选那个需要读得最少的选项。"},
+        {"s": "Dr. Shaw", "en": "Which is an argument for writing the form more clearly, not for dispensing with the choice altogether.", "zh": "这恰恰说明应该把表格写得更清楚，而不是干脆取消选择。"},
+        {"s": "Dr. Okafor", "en": "Touché. Shall we recommend approval, conditional on a revised consent form?", "zh": "说得好。那我们建议有条件批准，前提是修订知情同意书？"},
+        {"s": "Dr. Shaw", "en": "I'd be comfortable with that, provided we see the revised wording before it goes out.", "zh": "我可以接受，前提是修订后的措辞在发出前要给我们过目。"}
+      ]
+    },
+    {
+      "id": "c2-d2", "title": "A literary disagreement", "titleZh": "文学之争", "scene": "读书会上的争论",
+      "speakers": {"Clara": "f", "Hugo": "m"},
+      "lines": [
+        {"s": "Hugo", "en": "I'll confess, I found the narrator insufferable. Three hundred pages of self-pity dressed up as introspection.", "zh": "我得承认，我觉得叙述者令人难以忍受。三百页的自怜，伪装成内省。"},
+        {"s": "Clara", "en": "But surely that's the point? The novel is an indictment of precisely that kind of self-absorption.", "zh": "可这不正是重点吗？这部小说控诉的恰恰就是那种自我沉溺。"},
+        {"s": "Hugo", "en": "If it is, it's awfully subtle about it. I never once felt the author was holding him at arm's length.", "zh": "如果是这样，那它也太含蓄了。我一次都没觉得作者跟他保持了距离。"},
+        {"s": "Clara", "en": "What about the scene with his daughter at the station? Everything he says is contradicted by what we see her do.", "zh": "那车站和他女儿的那场戏呢？他说的每一句话都被我们看到的她的行为所否定。"},
+        {"s": "Hugo", "en": "Hmm. I'd read that as a flaw in the writing rather than a deliberate irony.", "zh": "嗯。我把那理解为写作上的缺陷，而不是刻意的反讽。"},
+        {"s": "Clara", "en": "That's the trouble with unreliable narrators — the more skilfully they're done, the easier they are to mistake for authorial endorsement.", "zh": "这就是不可靠叙述者的麻烦——写得越巧妙，越容易被误认为是作者的认同。"},
+        {"s": "Hugo", "en": "Perhaps. I may need to reread it with that in mind, though I'm not sure I can face him a second time.", "zh": "也许吧。我可能得带着这个思路重读一遍，虽然我不确定能否再忍受他一次。"},
+        {"s": "Clara", "en": "Skip to the final chapter. If that doesn't change your mind, nothing will.", "zh": "直接跳到最后一章。如果那都改变不了你的看法，那就没什么能改变了。"}
+      ]
+    },
+    {
+      "id": "c2-d3", "title": "Crisis communications", "titleZh": "危机公关", "scene": "公司高管讨论数据泄露的对外声明",
+      "speakers": {"CEO": "m", "Director": "f"},
+      "lines": [
+        {"s": "CEO", "en": "Legal would prefer we say as little as possible until the investigation's concluded.", "zh": "法务希望在调查结束前我们尽量少说。"},
+        {"s": "Director", "en": "I understand their instinct, but silence will be read as evasiveness. The story's already out there.", "zh": "我理解他们的本能反应，但沉默会被解读为回避。消息已经传开了。"},
+        {"s": "CEO", "en": "So what are you proposing — that we speculate about the cause before we know it?", "zh": "那你的提议是什么——在我们弄清原因之前就去猜测？"},
+        {"s": "Director", "en": "Not at all. We acknowledge what's happened, set out what we know and don't know, and commit to a timetable for updates.", "zh": "完全不是。我们承认发生的事，说明已知和未知的情况，并承诺更新信息的时间表。"},
+        {"s": "Director", "en": "And crucially, we tell customers exactly what steps they should take now to protect themselves.", "zh": "而且关键是，要明确告诉客户他们现在应采取哪些措施保护自己。"},
+        {"s": "CEO", "en": "An apology, too?", "zh": "还要道歉吗？"},
+        {"s": "Director", "en": "A genuine one, yes — not the 'we regret any inconvenience' variety. People can smell a non-apology a mile off.", "zh": "要，而且是真诚的——不是“对造成的任何不便深表遗憾”那种。人们老远就能闻出敷衍的道歉。"},
+        {"s": "CEO", "en": "Legal will balk at anything resembling an admission of liability.", "zh": "法务会反对任何类似承认责任的表述。"},
+        {"s": "Director", "en": "Then let's get them in the room. There's a way to take responsibility for the response without prejudging the cause.", "zh": "那就请他们一起来谈。我们可以对应对措施负责，而不预先认定原因。"}
+      ]
+    },
+    {
+      "id": "c2-d4", "title": "Urban planning debate", "titleZh": "城市规划辩论", "scene": "市议会听证会上的交锋",
+      "speakers": {"Councillor": "m", "Resident": "f"},
+      "lines": [
+        {"s": "Councillor", "en": "The new zoning plan would allow mid-rise apartments along the tram corridor, which is the only realistic way to ease the housing shortage.", "zh": "新的分区规划将允许在电车沿线建设中层公寓，这是缓解住房短缺唯一现实的办法。"},
+        {"s": "Resident", "en": "Nobody here disputes that we need more housing. What we object to is the absence of any commitment to affordability.", "zh": "这里没人质疑我们需要更多住房。我们反对的是规划中没有任何关于可负担性的承诺。"},
+        {"s": "Councillor", "en": "Increasing supply will, over time, put downward pressure on rents across the city.", "zh": "增加供应终将对全市租金形成下行压力。"},
+        {"s": "Resident", "en": "'Over time' is cold comfort to families being priced out this year. And the evidence on filtering is far from conclusive.", "zh": "“终将”对今年就被高房价挤走的家庭来说是聊胜于无。而且关于“过滤效应”的证据远非定论。"},
+        {"s": "Councillor", "en": "Mandating a high proportion of affordable units risks making schemes unviable, in which case nothing gets built at all.", "zh": "强制规定高比例的保障性住房，可能让项目无利可图，那样就什么都建不起来了。"},
+        {"s": "Resident", "en": "Then set the threshold where viability studies say it's sustainable. Fifteen percent is hardly a radical demand.", "zh": "那就把门槛设在可行性研究认为可持续的水平。百分之十五算不上什么激进要求。"},
+        {"s": "Councillor", "en": "I'm willing to take that figure back to the planning committee, on the understanding that it's subject to independent review.", "zh": "我愿意把这个数字带回规划委员会，但前提是它要经过独立评估。"},
+        {"s": "Resident", "en": "That's all we've been asking for.", "zh": "这正是我们一直以来的要求。"}
+      ]
+    },
+    {
+      "id": "c2-d5", "title": "Reflecting on a career", "titleZh": "回顾职业生涯", "scene": "访谈一位即将退休的外科医生",
+      "speakers": {"Interviewer": "f", "Surgeon": "m"},
+      "lines": [
+        {"s": "Interviewer", "en": "After forty years in the operating theatre, what's changed most?", "zh": "在手术室工作了四十年，变化最大的是什么？"},
+        {"s": "Surgeon", "en": "Technically, almost everything. Procedures that once required a week in hospital are now done as day cases.", "zh": "技术上几乎全变了。过去需要住院一周的手术，现在当天就能出院。"},
+        {"s": "Surgeon", "en": "But the change I value most is cultural. When I started, questioning a senior surgeon was practically unthinkable.", "zh": "但我最看重的是文化上的变化。我刚入行时，质疑资深外科医生几乎是不可想象的。"},
+        {"s": "Interviewer", "en": "And now?", "zh": "那现在呢？"},
+        {"s": "Surgeon", "en": "Now the most junior nurse is expected to speak up if something looks wrong — and rightly so. Checklists have saved more lives than any instrument I've used.", "zh": "现在，即使是资历最浅的护士，发现问题也应该说出来——这完全正确。检查清单挽救的生命比我用过的任何器械都多。"},
+        {"s": "Interviewer", "en": "Is there anything you'd have done differently?", "zh": "有什么事你希望当初换种方式做吗？"},
+        {"s": "Surgeon", "en": "I'd have been less reluctant to admit uncertainty. Patients don't need a surgeon who pretends to be infallible; they need one who's honest about the odds.", "zh": "我会更坦然地承认不确定性。病人需要的不是假装万无一失的外科医生，而是对风险坦诚相告的医生。"},
+        {"s": "Interviewer", "en": "That's a striking admission.", "zh": "这样的坦白令人印象深刻。"},
+        {"s": "Surgeon", "en": "It took me the better part of a career to learn it.", "zh": "我花了大半个职业生涯才学会这一点。"}
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "id": "c2-l1", "title": "The replication crisis", "titleZh": "可重复性危机", "voice": "m",
+      "sentences": [
+        {"en": "Over the past decade or so, several fields — most notably psychology — have been grappling with what has come to be known as the replication crisis.", "zh": "大约在过去十年里，若干学科——最突出的是心理学——一直在应对所谓的“可重复性危机”。"},
+        {"en": "Large-scale efforts to repeat landmark studies found that a substantial proportion of results could not be reproduced.", "zh": "大规模重复经典研究的尝试发现，相当一部分结果无法被复现。"},
+        {"en": "The causes are as much institutional as individual: journals favoured striking, positive findings, and careers depended on publishing them.", "zh": "其原因既在个人也在制度：期刊偏爱引人注目的阳性结果，而学术生涯又依赖于发表这些结果。"},
+        {"en": "Small samples and flexible analysis made it all too easy to find patterns that were, in fact, statistical noise.", "zh": "小样本和灵活的分析方法，使人们太容易发现那些实际上只是统计噪声的规律。"},
+        {"en": "The response has included pre-registration, in which researchers publicly commit to their hypotheses and methods before collecting data.", "zh": "应对措施包括“预注册”，即研究人员在收集数据之前公开承诺其假设和方法。"},
+        {"en": "Some argue that the crisis, painful as it has been, is ultimately a sign of science correcting itself.", "zh": "有人认为，这场危机尽管痛苦，但归根结底是科学自我纠正的标志。"}
+      ],
+      "questions": [
+        {"q": "What did large-scale replication efforts find?", "qZh": "大规模重复研究发现了什么？", "options": ["Nearly all results held up", "Many results could not be reproduced", "Only medical studies failed"], "answer": 1},
+        {"q": "Which institutional factor is mentioned?", "qZh": "提到了哪个制度性因素？", "options": ["Journals favouring positive findings", "Lack of funding for labs", "Government censorship"], "answer": 0},
+        {"q": "What is pre-registration?", "qZh": "什么是预注册？", "options": ["Registering participants early", "Committing to hypotheses and methods before collecting data", "Publishing data before analysis"], "answer": 1}
+      ]
+    },
+    {
+      "id": "c2-l2", "title": "On translation", "titleZh": "论翻译", "voice": "f",
+      "sentences": [
+        {"en": "Every translator faces a tension that can never be fully resolved: fidelity to the words versus fidelity to the effect.", "zh": "每位译者都面临一种永远无法彻底化解的张力：忠实于字句，还是忠实于效果。"},
+        {"en": "A pun, a rhyme or a culturally loaded idiom may have no equivalent at all, forcing a choice between accuracy and naturalness.", "zh": "一个双关语、一处押韵或一个富含文化内涵的习语，可能根本没有对应表达，迫使译者在准确与自然之间取舍。"},
+        {"en": "Some translators deliberately preserve a degree of foreignness, so that readers remain aware they are encountering another culture.", "zh": "有些译者刻意保留一定的异质感，让读者意识到自己在接触另一种文化。"},
+        {"en": "Others aim for a text that reads as though it had been written in the target language from the outset.", "zh": "另一些译者则力求译文读起来仿佛一开始就是用目标语言写成的。"},
+        {"en": "Neither approach is inherently superior; each makes some things visible at the expense of others.", "zh": "两种方法本身并无高下之分；每一种都在凸显某些东西的同时牺牲了另一些。"}
+      ],
+      "questions": [
+        {"q": "What tension does every translator face?", "qZh": "每位译者都面临什么张力？", "options": ["Speed versus cost", "Fidelity to words versus fidelity to effect", "Old versus new vocabulary"], "answer": 1},
+        {"q": "Why might a translator preserve 'foreignness'?", "qZh": "译者为何会保留“异质感”？", "options": ["To make the text shorter", "So readers stay aware of the other culture", "Because they lack skill"], "answer": 1},
+        {"q": "What is the speaker's conclusion?", "qZh": "说话者的结论是什么？", "options": ["Domestication is better", "Foreignisation is better", "Neither approach is inherently superior"], "answer": 2}
+      ]
+    },
+    {
+      "id": "c2-l3", "title": "The economics of attention", "titleZh": "注意力经济", "voice": "m",
+      "sentences": [
+        {"en": "Half a century ago, the economist Herbert Simon observed that a wealth of information creates a poverty of attention.", "zh": "半个世纪前，经济学家赫伯特·西蒙指出，信息的丰富会导致注意力的匮乏。"},
+        {"en": "His remark has proved strikingly prescient.", "zh": "他的这番话被证明极具先见之明。"},
+        {"en": "Many of the most valuable companies in the world now compete not for our money directly, but for our time and focus.", "zh": "如今，世界上许多最有价值的公司争夺的并不是我们的钱本身，而是我们的时间和注意力。"},
+        {"en": "Their products are refined through relentless testing to maximise engagement, a metric that does not necessarily align with users' wellbeing.", "zh": "它们的产品经过不断测试来最大化“参与度”，而这一指标未必与用户的福祉一致。"},
+        {"en": "Critics contend that this asymmetry — vast engineering resources on one side, an individual's willpower on the other — makes self-discipline an inadequate response.", "zh": "批评者认为，这种不对称——一边是庞大的工程资源，一边是个人的意志力——使得自律成为一种不充分的应对方式。"},
+        {"en": "Instead, they call for design standards and regulation, much as we regulate other products that can cause harm.", "zh": "因此，他们呼吁制定设计标准和监管，就像我们监管其他可能造成危害的产品那样。"}
+      ],
+      "questions": [
+        {"q": "What did Herbert Simon observe?", "qZh": "赫伯特·西蒙观察到了什么？", "options": ["Information creates a poverty of attention", "Attention is easy to buy", "Technology increases focus"], "answer": 0},
+        {"q": "What does 'engagement' not necessarily align with?", "qZh": "“参与度”未必与什么一致？", "options": ["Profit", "Users' wellbeing", "Advertising"], "answer": 1},
+        {"q": "What do critics call for?", "qZh": "批评者呼吁什么？", "options": ["More self-discipline", "Design standards and regulation", "Banning smartphones"], "answer": 1}
+      ]
+    },
+    {
+      "id": "c2-l4", "title": "Memory as reconstruction", "titleZh": "记忆是一种重建", "voice": "f",
+      "sentences": [
+        {"en": "We tend to imagine memory as a kind of recording, faithfully stored and replayed on demand.", "zh": "我们往往把记忆想象成一种录像，被忠实保存，随时回放。"},
+        {"en": "Decades of research suggest that it is far more like reconstruction, assembled afresh each time we recall an event.", "zh": "数十年的研究表明，它更像是一种重建，每次回忆一件事时都会重新拼凑。"},
+        {"en": "In classic experiments, the wording of a single question — whether cars 'smashed' or 'hit' each other — altered what witnesses later claimed to have seen.", "zh": "在经典实验中，仅仅一个问题的措辞——汽车是“猛撞”还是“碰撞”——就改变了证人后来声称看到的内容。"},
+        {"en": "Some participants even came to vividly 'remember' childhood events that had never taken place.", "zh": "一些参与者甚至开始清晰地“记得”从未发生过的童年事件。"},
+        {"en": "Such findings have had profound implications for the legal system, where eyewitness testimony was long regarded as among the most compelling forms of evidence.", "zh": "这些发现对司法系统产生了深远影响，因为目击证词长期以来被视为最有力的证据形式之一。"}
+      ],
+      "questions": [
+        {"q": "According to research, memory is more like…", "qZh": "根据研究，记忆更像……", "options": ["A recording", "A reconstruction", "A photograph"], "answer": 1},
+        {"q": "What changed witnesses' memories in the experiments?", "qZh": "实验中是什么改变了证人的记忆？", "options": ["The wording of a question", "The time of day", "The colour of the cars"], "answer": 0},
+        {"q": "Which field has been profoundly affected?", "qZh": "哪个领域受到了深远影响？", "options": ["Advertising", "The legal system", "Architecture"], "answer": 1}
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "c2-n1", "title": "Honeybee dominance raises questions over urban beekeeping boom", "titleZh": "蜜蜂的统治地位引发对城市养蜂热的质疑", "date": "2026-10-14", "category": "生态",
+      "source": {"name": "Anglia Ruskin University", "url": "https://www.aru.ac.uk/news/honeybees-exert-flower-power-over-other-species"},
+      "sentences": [
+        {"en": "For years, keeping honeybees has been promoted as an easy way for city dwellers to 'save the bees'.", "zh": "多年来，养蜜蜂一直被宣传为城市居民“拯救蜜蜂”的简单方式。"},
+        {"en": "A new study published in Ecological Entomology suggests the picture is considerably more complicated.", "zh": "一项发表于《生态昆虫学》的新研究表明，情况要复杂得多。"},
+        {"en": "Over two years, researchers observed pollinators at five sites near Cambridge, each within 300 metres of known honeybee colonies.", "zh": "研究人员在两年间观察了剑桥附近五个地点的传粉昆虫，每个地点都位于已知蜂群300米范围内。"},
+        {"en": "Honeybees not only prevailed in most encounters but initiated the bulk of aggressive interactions, frequently driving competitors off bramble and ivy flowers.", "zh": "蜜蜂不仅在大多数遭遇中占上风，还发起了大部分攻击性互动，经常把竞争者赶离黑莓和常春藤花。"},
+        {"en": "Only the ivy bee, a solitary species that arrived in Britain in 2001, routinely held its ground.", "zh": "只有常春藤蜂——一种2001年才来到英国的独居蜂——经常能坚守阵地。"},
+        {"en": "Tellingly, competition intensified on hotter days, plausibly because heat stress curtails nectar production and leaves less to go around.", "zh": "耐人寻味的是，竞争在更热的日子里加剧，这可能是因为高温胁迫抑制了花蜜分泌，使可分配的资源更少。"},
+        {"en": "With registered beekeepers in the UK having more than doubled since 2010, the authors argue that hive density, particularly in cities, warrants active management.", "zh": "由于英国注册养蜂人数自2010年以来增加了一倍多，作者认为蜂箱密度——尤其是在城市——需要积极管理。"},
+        {"en": "They are careful to stress, however, that their aim is coexistence rather than discouraging beekeeping altogether.", "zh": "不过他们谨慎地强调，其目标是共存，而非全然劝阻养蜂。"}
+      ]
+    },
+    {
+      "id": "c2-n2", "title": "The silent toll of Europe's hottest summers", "titleZh": "欧洲酷暑无声的代价", "date": "2026-10-23", "category": "健康",
+      "source": {"name": "Democracy Now! (headline summary)", "url": "https://www.democracynow.org/2026/10/23/headlines"},
+      "sentences": [
+        {"en": "Some 50,000 people are estimated to have died as a result of this summer's European heatwaves, according to a study released this week.", "zh": "根据本周发布的一项研究，估计约有5万人死于今夏欧洲热浪。"},
+        {"en": "Of those, roughly two-thirds are attributed to the additional warming caused by human activity.", "zh": "其中约三分之二被归因于人类活动造成的额外升温。"},
+        {"en": "Because the analysis was confined to 854 urban areas, the researchers concede that the overall toll is almost certainly an underestimate.", "zh": "由于分析仅限于854个城市地区，研究人员承认总死亡人数几乎肯定被低估了。"},
+        {"en": "Attribution studies of this kind, once regarded as speculative, have become an increasingly robust tool for quantifying the human cost of a warming climate.", "zh": "这类归因研究曾被视为推测性的，如今已日益成为量化气候变暖人员代价的可靠工具。"},
+        {"en": "Heat is a peculiarly insidious hazard: it leaves no rubble, and its victims — disproportionately elderly and isolated — rarely make headlines.", "zh": "高温是一种格外隐蔽的危害：它不留下废墟，其受害者——以老年人和独居者居多——也很少登上新闻头条。"},
+        {"en": "Advocates argue that until heatwaves are treated with the same urgency as floods or wildfires, preventable deaths will continue to mount.", "zh": "倡导者认为，在热浪得到与洪水或山火同等的重视之前，可避免的死亡将继续增加。"}
+      ]
+    },
+    {
+      "id": "c2-n3", "title": "Do city birds read gender? A puzzling flight response", "titleZh": "城市鸟类能识别性别？一种令人费解的逃飞反应", "date": "2026-10-22", "category": "动物",
+      "source": {"name": "British Ecological Society", "url": "https://www.britishecologicalsociety.org/content/urban-birds-fear-women-more-than-men/"},
+      "sentences": [
+        {"en": "Urban birds across Europe appear to be warier of women than of men, according to research published in People and Nature.", "zh": "根据发表在《人与自然》上的研究，欧洲各地的城市鸟类似乎对女性比对男性更警惕。"},
+        {"en": "The study measured flight initiation distance — how close a person can approach before a bird takes off — across 2,701 trials.", "zh": "该研究在2701次试验中测量了“惊飞距离”——即人能接近到多近鸟才会起飞。"},
+        {"en": "Observers in Czechia, France, Germany, Poland and Spain, matched for height and dressed identically, walked directly towards 37 species.", "zh": "在捷克、法国、德国、波兰和西班牙，身高相当、衣着相同的观察者径直走向37种鸟。"},
+        {"en": "On average, men were able to get roughly a metre closer than women before the birds fled.", "zh": "平均而言，男性能比女性多靠近大约一米，鸟才逃走。"},
+        {"en": "The authors float several hypotheses, including differences in gait, body shape or scent, but acknowledge that all of them remain speculative.", "zh": "作者提出了几种假设，包括步态、体型或气味的差异，但承认这些都仍是推测。"},
+        {"en": "The finding has methodological implications too: studies of animal behaviour may need to account for the sex of the human observer.", "zh": "这一发现在方法论上也有意义：动物行为研究可能需要考虑人类观察者的性别。"}
+      ]
+    }
+  ]
+}

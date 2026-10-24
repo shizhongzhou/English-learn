@@ -1,0 +1,187 @@
+{
+  "dialogues": [
+    {
+      "id": "b2-d1", "title": "Negotiating a deadline", "titleZh": "协商截止日期", "scene": "员工请求延期交项目",
+      "speakers": {"Nina": "f", "Robert": "m"},
+      "lines": [
+        {"s": "Nina", "en": "Robert, I wanted to raise something about the client report that's due on Friday.", "zh": "罗伯特，我想说一下周五要交的那份客户报告。"},
+        {"s": "Robert", "en": "Go ahead. Is there a problem?", "zh": "说吧。有问题吗？"},
+        {"s": "Nina", "en": "The sales figures from the Asia team still haven't come in, and without them the analysis would be incomplete.", "zh": "亚洲团队的销售数据还没到，没有这些数据，分析就不完整。"},
+        {"s": "Robert", "en": "I see. When are they expected?", "zh": "明白了。预计什么时候能到？"},
+        {"s": "Nina", "en": "They've promised them by Wednesday evening, but realistically I'd need until Monday to do a proper job.", "zh": "他们承诺周三晚上前给，但说实话，我需要到周一才能做好。"},
+        {"s": "Robert", "en": "The trouble is that the client has a board meeting on Monday morning.", "zh": "麻烦的是客户周一上午要开董事会。"},
+        {"s": "Nina", "en": "What if I send them a draft on Friday covering everything except Asia, and the full version first thing Monday?", "zh": "要不这样：我周五先发一份除亚洲外的草稿，周一一早再发完整版？"},
+        {"s": "Robert", "en": "That could work, as long as we're upfront with them about why.", "zh": "这可行，只要我们坦白告诉他们原因。"},
+        {"s": "Nina", "en": "Absolutely. I'll draft an email explaining the situation and copy you in.", "zh": "当然。我会写封邮件说明情况，并抄送给你。"},
+        {"s": "Robert", "en": "Great. And next time, flag it a bit earlier if you can see a delay coming.", "zh": "很好。下次如果预见到会延误，尽量早点提出来。"},
+        {"s": "Nina", "en": "Fair point. I'll keep that in mind.", "zh": "有道理。我会记住的。"}
+      ]
+    },
+    {
+      "id": "b2-d2", "title": "Should we buy an electric car?", "titleZh": "要不要买电动车？", "scene": "夫妻讨论换车",
+      "speakers": {"Laura": "f", "James": "m"},
+      "lines": [
+        {"s": "Laura", "en": "I've been thinking — our car is getting old. Maybe it's time we went electric.", "zh": "我一直在想——我们的车越来越旧了。也许是时候换电动车了。"},
+        {"s": "James", "en": "I'm not against it in principle, but they're still pretty expensive, aren't they?", "zh": "原则上我不反对，但它们还是挺贵的，不是吗？"},
+        {"s": "Laura", "en": "The upfront cost is higher, but charging at home costs a fraction of what we spend on petrol.", "zh": "前期成本是高一些，但在家充电的费用只是我们油费的一小部分。"},
+        {"s": "James", "en": "What about long journeys, though? I'd hate to get stuck looking for a charger on the way to your parents'.", "zh": "那长途呢？我可不想在去你父母家的路上到处找充电桩。"},
+        {"s": "Laura", "en": "Most new models can do at least four hundred kilometres on a full charge, and there are fast chargers at the services.", "zh": "大多数新款充满电至少能跑四百公里，服务区也有快充桩。"},
+        {"s": "James", "en": "Fair enough. Have you looked into whether we'd need a charger installed at home?", "zh": "说得也是。你查过家里是否需要安装充电桩吗？"},
+        {"s": "Laura", "en": "Yes, it'd cost around eight hundred euros, but there's a government grant that covers part of it.", "zh": "查过，大约要八百欧元，但有政府补贴可以覆盖一部分。"},
+        {"s": "James", "en": "OK, you've convinced me to at least take one for a test drive.", "zh": "好吧，你至少说服我去试驾一辆了。"},
+        {"s": "Laura", "en": "That's all I'm asking. Let's book one for Saturday.", "zh": "我就是这个意思。周六预约一辆吧。"}
+      ]
+    },
+    {
+      "id": "b2-d3", "title": "Reporting a problem to a landlord", "titleZh": "向房东反映问题", "scene": "租客电话反映漏水",
+      "speakers": {"Tenant": "f", "Landlord": "m"},
+      "lines": [
+        {"s": "Tenant", "en": "Hi Mr. Harris, it's Sophie from flat 3. I'm afraid there's a leak in the bathroom ceiling.", "zh": "哈里斯先生您好，我是3号公寓的索菲。浴室天花板好像漏水了。"},
+        {"s": "Landlord", "en": "Oh dear. How bad is it?", "zh": "哎呀。严重吗？"},
+        {"s": "Tenant", "en": "It started as a few drops, but this morning there was a puddle on the floor and the paint is starting to peel.", "zh": "一开始只是几滴，但今早地上已经有一滩水了，油漆也开始脱落。"},
+        {"s": "Landlord", "en": "It's probably coming from the flat upstairs. I'll get in touch with them straight away.", "zh": "可能是楼上那户漏下来的。我马上联系他们。"},
+        {"s": "Tenant", "en": "Thanks. Could you also send a plumber? I'm worried it might damage the electrics.", "zh": "谢谢。您能再派个水管工来吗？我担心会损坏电路。"},
+        {"s": "Landlord", "en": "Good thinking. In the meantime, don't use the bathroom light, just to be safe.", "zh": "考虑得周到。在此期间为了安全，先别开浴室的灯。"},
+        {"s": "Tenant", "en": "Will do. When do you think someone could come round?", "zh": "好的。您觉得什么时候能有人过来？"},
+        {"s": "Landlord", "en": "I'll try to get someone there by tomorrow morning. I'll text you once it's arranged.", "zh": "我尽量明早前安排人过去。安排好了我给你发短信。"},
+        {"s": "Tenant", "en": "I appreciate it. I'll take some photos in case you need them for the insurance.", "zh": "非常感谢。我会拍些照片，以防您办保险时需要。"}
+      ]
+    },
+    {
+      "id": "b2-d4", "title": "Discussing a film", "titleZh": "讨论一部电影", "scene": "两个朋友看完电影后争论",
+      "speakers": {"Alex": "m", "Priya": "f"},
+      "lines": [
+        {"s": "Alex", "en": "So, what did you make of it? I thought it was brilliant.", "zh": "那么，你觉得怎么样？我觉得太精彩了。"},
+        {"s": "Priya", "en": "Honestly, I found it a bit disappointing. The trailer made it look far more exciting.", "zh": "说实话，我觉得有点失望。预告片让它看起来刺激多了。"},
+        {"s": "Alex", "en": "Really? I loved how slowly the story built up.", "zh": "真的吗？我很喜欢故事慢慢铺陈的方式。"},
+        {"s": "Priya", "en": "Slowly is one word for it. I nearly fell asleep in the middle.", "zh": "“慢”还算客气了。中间我差点睡着。"},
+        {"s": "Alex", "en": "Fair enough, but you have to admit the acting was outstanding.", "zh": "好吧，但你得承认演技非常出色。"},
+        {"s": "Priya", "en": "Oh, definitely. The lead actress deserves an award. It's the script I had issues with.", "zh": "那确实。女主角值得拿奖。我有意见的是剧本。"},
+        {"s": "Alex", "en": "What about the ending? I didn't see that twist coming at all.", "zh": "那结局呢？那个反转我完全没想到。"},
+        {"s": "Priya", "en": "That's the thing — it felt too convenient, as if the writers didn't know how to finish it.", "zh": "问题就在这——它太牵强了，好像编剧不知道怎么收尾。"},
+        {"s": "Alex", "en": "Well, I guess we'll have to agree to disagree.", "zh": "好吧，看来我们只能求同存异了。"}
+      ]
+    },
+    {
+      "id": "b2-d5", "title": "A university open day", "titleZh": "大学开放日", "scene": "学生向招生老师咨询课程",
+      "speakers": {"Student": "m", "Advisor": "f"},
+      "lines": [
+        {"s": "Student", "en": "Hi, I'm interested in the environmental science degree. Could you tell me how the course is structured?", "zh": "您好，我对环境科学专业感兴趣。能介绍一下课程是怎么安排的吗？"},
+        {"s": "Advisor", "en": "Of course. The first year covers the basics — biology, chemistry and statistics.", "zh": "当然。第一年学基础课——生物、化学和统计。"},
+        {"s": "Advisor", "en": "In the second year you choose a specialism, such as climate, water or conservation.", "zh": "第二年你要选一个专业方向，比如气候、水资源或生态保护。"},
+        {"s": "Student", "en": "Is there any chance to get practical experience?", "zh": "有机会获得实践经验吗？"},
+        {"s": "Advisor", "en": "Yes, there's a field trip every year, and in the third year you can do a placement with a company or a charity.", "zh": "有，每年都有一次野外考察，第三年可以去企业或公益组织实习。"},
+        {"s": "Student", "en": "That sounds great. How is the course assessed — mainly exams?", "zh": "听起来很棒。课程怎么考核——主要是考试吗？"},
+        {"s": "Advisor", "en": "It's roughly half exams and half coursework, including a final-year research project.", "zh": "大约一半是考试，一半是平时作业，包括最后一年的研究项目。"},
+        {"s": "Student", "en": "And what do graduates usually go on to do?", "zh": "毕业生通常从事什么工作？"},
+        {"s": "Advisor", "en": "Many work in environmental consulting or government, and about a quarter go on to further study.", "zh": "很多人在环境咨询公司或政府部门工作，大约四分之一继续深造。"}
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "id": "b2-l1", "title": "The four-day working week", "titleZh": "四天工作制", "voice": "f",
+      "sentences": [
+        {"en": "Over the past few years, a growing number of companies have experimented with a four-day working week.", "zh": "过去几年，越来越多的公司尝试了每周四天工作制。"},
+        {"en": "In most trials, employees kept their full salary while working around 32 hours instead of 40.", "zh": "在大多数试点中，员工工作约32小时而不是40小时，工资照拿。"},
+        {"en": "Supporters argue that well-rested workers are more focused, so productivity doesn't fall.", "zh": "支持者认为，休息充足的员工更专注，所以生产率不会下降。"},
+        {"en": "Several studies reported lower stress levels and fewer sick days.", "zh": "几项研究报告称，压力水平降低，病假天数减少。"},
+        {"en": "However, critics point out that the model is much harder to apply in hospitals, schools or shops, where someone has to be present.", "zh": "然而批评者指出，这种模式在医院、学校或商店很难实施，因为那里必须有人在岗。"},
+        {"en": "There is also concern that some employees simply squeeze five days of work into four, which could increase pressure.", "zh": "也有人担心，一些员工只是把五天的工作挤进四天，可能反而增加压力。"}
+      ],
+      "questions": [
+        {"q": "What usually happened to salaries in the trials?", "qZh": "试点中工资通常怎样？", "options": ["They were cut by 20%", "They stayed the same", "They increased"], "answer": 1},
+        {"q": "What benefit is mentioned?", "qZh": "提到了什么好处？", "options": ["Fewer sick days", "Longer holidays", "Higher bonuses"], "answer": 0},
+        {"q": "Why is the model difficult in hospitals?", "qZh": "为什么这种模式在医院很难实施？", "options": ["Staff refuse it", "Someone must always be present", "It is illegal"], "answer": 1}
+      ]
+    },
+    {
+      "id": "b2-l2", "title": "Why we procrastinate", "titleZh": "我们为什么拖延", "voice": "m",
+      "sentences": [
+        {"en": "Most people think procrastination is a problem of time management, but psychologists increasingly see it as a problem of emotion.", "zh": "多数人认为拖延是时间管理的问题，但心理学家越来越把它看作情绪问题。"},
+        {"en": "We tend to put off tasks that make us feel anxious, bored or insecure.", "zh": "我们往往会推迟那些让我们感到焦虑、无聊或不自信的任务。"},
+        {"en": "Avoiding the task gives us short-term relief, which is exactly why the habit is so hard to break.", "zh": "逃避任务能带来短暂的解脱，这正是这个习惯很难改掉的原因。"},
+        {"en": "One useful technique is to commit to working on something for just five minutes.", "zh": "一个有用的方法是承诺只做五分钟。"},
+        {"en": "Once you've started, the task usually feels less threatening, and many people keep going.", "zh": "一旦开始，任务通常就没那么可怕了，很多人会继续做下去。"},
+        {"en": "Being kind to yourself also helps: research suggests that people who forgive themselves for procrastinating do it less next time.", "zh": "善待自己也有帮助：研究表明，原谅自己拖延的人下次拖延会更少。"}
+      ],
+      "questions": [
+        {"q": "How do psychologists increasingly see procrastination?", "qZh": "心理学家越来越如何看待拖延？", "options": ["As laziness", "As an emotional problem", "As a time-management problem"], "answer": 1},
+        {"q": "What does the five-minute technique involve?", "qZh": "五分钟法是什么？", "options": ["Taking a five-minute break", "Starting with just five minutes of work", "Planning for five minutes"], "answer": 1},
+        {"q": "What happens to people who forgive themselves?", "qZh": "原谅自己的人会怎样？", "options": ["They procrastinate less", "They procrastinate more", "Nothing changes"], "answer": 0}
+      ]
+    },
+    {
+      "id": "b2-l3", "title": "Urban gardening", "titleZh": "城市园艺", "voice": "f",
+      "sentences": [
+        {"en": "In cities around the world, empty rooftops and car parks are being turned into vegetable gardens.", "zh": "在世界各地的城市里，空置的屋顶和停车场正被改造成菜园。"},
+        {"en": "These projects are rarely big enough to feed a whole neighbourhood.", "zh": "这些项目很少大到能养活整个街区。"},
+        {"en": "Their real value, organisers say, lies elsewhere.", "zh": "组织者说，它们真正的价值在别处。"},
+        {"en": "They bring together neighbours who would otherwise never meet, and they teach children where food actually comes from.", "zh": "它们让原本素不相识的邻居聚在一起，并让孩子们了解食物究竟从哪里来。"},
+        {"en": "Green roofs also absorb rainwater and help keep buildings cooler in summer.", "zh": "绿色屋顶还能吸收雨水，夏天帮助建筑物降温。"},
+        {"en": "The main challenge is funding, as most gardens rely on volunteers and small grants.", "zh": "主要挑战是资金，因为大多数菜园依靠志愿者和小额资助。"}
+      ],
+      "questions": [
+        {"q": "According to organisers, what is NOT the main value of these gardens?", "qZh": "据组织者说，下列哪项不是这些菜园的主要价值？", "options": ["Feeding whole neighbourhoods", "Bringing neighbours together", "Teaching children about food"], "answer": 0},
+        {"q": "What environmental benefit is mentioned?", "qZh": "提到了什么环境益处？", "options": ["Reducing traffic", "Keeping buildings cooler", "Producing electricity"], "answer": 1},
+        {"q": "What is the main challenge?", "qZh": "主要挑战是什么？", "options": ["Bad weather", "Funding", "Pests"], "answer": 1}
+      ]
+    },
+    {
+      "id": "b2-l4", "title": "The history of the sandwich", "titleZh": "三明治的历史", "voice": "m",
+      "sentences": [
+        {"en": "People have been eating bread with fillings for thousands of years, but the name 'sandwich' is surprisingly recent.", "zh": "人们吃夹馅面包已有几千年历史，但“三明治”这个名字却出奇地新。"},
+        {"en": "It comes from John Montagu, the fourth Earl of Sandwich, an English aristocrat in the eighteenth century.", "zh": "它来自十八世纪的英国贵族——第四代三明治伯爵约翰·蒙塔古。"},
+        {"en": "According to a popular story, he asked for meat between two slices of bread so he could eat without leaving the card table.", "zh": "据一个流行的说法，他要求把肉夹在两片面包之间，这样就不用离开牌桌也能吃饭。"},
+        {"en": "Historians aren't sure this is true; he may simply have been eating at his desk while working.", "zh": "历史学家不确定这是否属实；他可能只是在办公桌前边工作边吃。"},
+        {"en": "Either way, the idea spread quickly, and by the end of the century the word appeared in English cookbooks.", "zh": "无论如何，这个做法迅速流行，到本世纪末这个词已出现在英国食谱中。"}
+      ],
+      "questions": [
+        {"q": "Who is the sandwich named after?", "qZh": "三明治以谁的名字命名？", "options": ["A cook", "An English earl", "A French king"], "answer": 1},
+        {"q": "When did he live?", "qZh": "他生活在什么时候？", "options": ["The 16th century", "The 18th century", "The 20th century"], "answer": 1},
+        {"q": "What do historians say about the card-table story?", "qZh": "历史学家怎么看牌桌的故事？", "options": ["It is definitely true", "It may not be true", "It is about a different person"], "answer": 1}
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "b2-n1", "title": "Honeybees are outcompeting wild pollinators, study finds", "titleZh": "研究发现：蜜蜂正在挤压野生传粉昆虫的生存空间", "date": "2026-10-14", "category": "环境",
+      "source": {"name": "Anglia Ruskin University", "url": "https://www.aru.ac.uk/news/honeybees-exert-flower-power-over-other-species"},
+      "sentences": [
+        {"en": "A two-year study near Cambridge has found that honeybees regularly force other pollinators off flowers.", "zh": "剑桥附近一项为期两年的研究发现，蜜蜂经常把其他传粉昆虫从花上赶走。"},
+        {"en": "Researchers from Anglia Ruskin University spent 93 hours recording encounters between insects on bramble and ivy.", "zh": "安格利亚鲁斯金大学的研究人员花了93小时，记录黑莓和常春藤上昆虫之间的相遇。"},
+        {"en": "Honeybees won most of these contests and started the majority of aggressive interactions, often by chasing rivals away.", "zh": "蜜蜂赢得了大多数较量，并发起了多数攻击性互动，常常是把对手赶走。"},
+        {"en": "Other insects avoided honeybees in 28 percent of interactions on bramble and 36 percent on ivy.", "zh": "在黑莓上28%、在常春藤上36%的互动中，其他昆虫选择避开蜜蜂。"},
+        {"en": "On bramble, a doubling of honeybee numbers was linked to a 14 percent fall in bumblebees.", "zh": "在黑莓上，蜜蜂数量翻倍与熊蜂数量下降14%相关。"},
+        {"en": "Competition was fiercer at higher temperatures, which suggests climate change could make the problem worse.", "zh": "温度越高竞争越激烈，这表明气候变化可能使问题恶化。"},
+        {"en": "The number of registered beekeepers in the UK has risen from about 19,000 in 2010 to 47,000.", "zh": "英国注册养蜂人数量已从2010年的约1.9万人增至4.7万人。"},
+        {"en": "The authors stress that they are not discouraging beekeeping, but argue that hive numbers need careful management, particularly in cities.", "zh": "作者强调，他们并非劝阻养蜂，而是认为蜂箱数量需要谨慎管理，尤其是在城市。"}
+      ]
+    },
+    {
+      "id": "b2-n2", "title": "Heatwaves killed tens of thousands in Europe this summer", "titleZh": "今夏热浪在欧洲造成数万人死亡", "date": "2026-10-23", "category": "健康",
+      "source": {"name": "Democracy Now! (headline summary)", "url": "https://www.democracynow.org/2026/10/23/headlines"},
+      "sentences": [
+        {"en": "A new study estimates that this summer's heatwaves in Europe caused around 50,000 deaths.", "zh": "一项新研究估计，今年夏天欧洲的热浪造成了约5万人死亡。"},
+        {"en": "Researchers concluded that about two-thirds of those deaths would not have happened without climate change.", "zh": "研究人员得出结论：如果没有气候变化，其中约三分之二的死亡本不会发生。"},
+        {"en": "The analysis covered 854 European cities but did not include rural areas.", "zh": "该分析覆盖了欧洲854座城市，但不包括农村地区。"},
+        {"en": "That means the real number of deaths is likely to be even higher.", "zh": "这意味着实际死亡人数可能更高。"},
+        {"en": "Older people and those with heart or lung conditions are especially vulnerable during extreme heat.", "zh": "在极端高温期间，老年人和患有心肺疾病的人尤其脆弱。"},
+        {"en": "Health experts say many of these deaths could be prevented with better early warnings and cooler public spaces.", "zh": "卫生专家表示，通过更好的预警和更凉爽的公共空间，许多死亡本可以避免。"}
+      ]
+    },
+    {
+      "id": "b2-n3", "title": "Perseverance becomes the farthest-travelling vehicle on another world", "titleZh": "“毅力号”成为在地外星球行驶最远的车辆", "date": "2026-10-11", "category": "太空",
+      "source": {"name": "Guinness World Records", "url": "https://www.guinnessworldrecords.com/news/2026/10/nasas-perseverance-rover-breaks-the-record-for-longest-road-trip-on-mars"},
+      "sentences": [
+        {"en": "NASA's Perseverance rover has set a new record for the longest distance driven on another planet.", "zh": "NASA的“毅力号”火星车创下了在其他行星上行驶距离最长的新纪录。"},
+        {"en": "On 11 October, a drive of just over 91 metres took its total to about 45.2 kilometres.", "zh": "10月11日，一次91米多的行驶使它的总里程达到约45.2公里。"},
+        {"en": "The previous record had been held by the Opportunity rover, which covered 45.16 kilometres over a fourteen-year mission.", "zh": "此前的纪录由“机遇号”保持，它在14年的任务中行驶了45.16公里。"},
+        {"en": "Perseverance, which landed in Jezero Crater in 2021, beat that in under five years.", "zh": "2021年降落在耶泽罗陨石坑的“毅力号”用不到五年就打破了这一纪录。"},
+        {"en": "Its speed is largely thanks to AutoNav, a self-driving system that uses a dedicated computer to spot obstacles and plan routes.", "zh": "它的速度主要归功于AutoNav自动驾驶系统，该系统用专门的计算机识别障碍并规划路线。"},
+        {"en": "The rover is currently exploring rocks that are thought to be around four billion years old.", "zh": "这辆火星车目前正在探索据信约有40亿年历史的岩石。"},
+        {"en": "Scientists hope these rocks will reveal whether Mars once had conditions suitable for life.", "zh": "科学家希望这些岩石能揭示火星过去是否具备适合生命的条件。"}
+      ]
+    }
+  ]
+}

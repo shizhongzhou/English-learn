@@ -1,0 +1,193 @@
+{
+  "dialogues": [
+    {
+      "id": "a2-d1", "title": "Booking a table", "titleZh": "电话订餐位", "scene": "打电话给餐厅预订",
+      "speakers": {"Staff": "f", "Mark": "m"},
+      "lines": [
+        {"s": "Staff", "en": "Good afternoon, Rosa's Kitchen. How can I help you?", "zh": "下午好，这里是罗莎厨房。有什么可以帮您？"},
+        {"s": "Mark", "en": "Hi, I'd like to book a table for Saturday evening.", "zh": "你好，我想订一张周六晚上的桌子。"},
+        {"s": "Staff", "en": "Of course. For how many people?", "zh": "好的。几位？"},
+        {"s": "Mark", "en": "Four people, please. Around seven o'clock?", "zh": "四位。七点左右可以吗？"},
+        {"s": "Staff", "en": "Sorry, we're full at seven. Is half past seven OK?", "zh": "抱歉，七点已经满了。七点半可以吗？"},
+        {"s": "Mark", "en": "Yes, that's fine.", "zh": "可以，没问题。"},
+        {"s": "Staff", "en": "Can I have your name and phone number?", "zh": "请问您的姓名和电话号码？"},
+        {"s": "Mark", "en": "Mark Lee. My number is 0791 456 223.", "zh": "马克·李。我的号码是 0791 456 223。"},
+        {"s": "Staff", "en": "Thank you, Mark. A table for four at seven thirty on Saturday.", "zh": "谢谢，马克。周六七点半，四人桌。"},
+        {"s": "Mark", "en": "Great. Can we sit near the window?", "zh": "太好了。我们能坐在靠窗的位置吗？"},
+        {"s": "Staff", "en": "I'll try my best. See you on Saturday!", "zh": "我会尽量安排。周六见！"}
+      ]
+    },
+    {
+      "id": "a2-d2", "title": "Asking for directions", "titleZh": "问路", "scene": "游客在街上问路",
+      "speakers": {"Tourist": "f", "Local": "m"},
+      "lines": [
+        {"s": "Tourist", "en": "Excuse me, is there a train station near here?", "zh": "打扰一下，这附近有火车站吗？"},
+        {"s": "Local", "en": "Yes, it's about ten minutes on foot.", "zh": "有，走路大概十分钟。"},
+        {"s": "Tourist", "en": "Could you tell me how to get there?", "zh": "能告诉我怎么走吗？"},
+        {"s": "Local", "en": "Go straight along this street and turn left at the bank.", "zh": "沿着这条街直走，在银行那里左转。"},
+        {"s": "Tourist", "en": "Turn left at the bank. OK.", "zh": "在银行左转。好的。"},
+        {"s": "Local", "en": "Then walk past the park. The station is on your right.", "zh": "然后走过公园。车站就在你右手边。"},
+        {"s": "Tourist", "en": "Is it far from the park?", "zh": "离公园远吗？"},
+        {"s": "Local", "en": "No, it's just opposite the park gate.", "zh": "不远，就在公园大门对面。"},
+        {"s": "Tourist", "en": "Thank you so much!", "zh": "非常感谢！"},
+        {"s": "Local", "en": "You're welcome. Have a good trip!", "zh": "不客气。旅途愉快！"}
+      ]
+    },
+    {
+      "id": "a2-d3", "title": "At the doctor's", "titleZh": "看医生", "scene": "病人向医生描述症状",
+      "speakers": {"Doctor": "f", "Peter": "m"},
+      "lines": [
+        {"s": "Doctor", "en": "Hello, Peter. What's the matter?", "zh": "你好，彼得。怎么了？"},
+        {"s": "Peter", "en": "I've got a bad headache and a sore throat.", "zh": "我头很疼，嗓子也疼。"},
+        {"s": "Doctor", "en": "How long have you felt like this?", "zh": "这样多久了？"},
+        {"s": "Peter", "en": "Since Monday. I also feel very tired.", "zh": "从周一开始。我还觉得很累。"},
+        {"s": "Doctor", "en": "Let me check your temperature. Hmm, it's a little high.", "zh": "我量一下体温。嗯，有点高。"},
+        {"s": "Peter", "en": "Is it serious?", "zh": "严重吗？"},
+        {"s": "Doctor", "en": "Don't worry, it's just a cold. Drink lots of water and get some rest.", "zh": "别担心，只是感冒。多喝水，多休息。"},
+        {"s": "Peter", "en": "Should I take any medicine?", "zh": "我需要吃药吗？"},
+        {"s": "Doctor", "en": "Take these tablets twice a day, after meals.", "zh": "这些药片一天两次，饭后吃。"},
+        {"s": "Peter", "en": "Thank you, doctor.", "zh": "谢谢医生。"}
+      ]
+    },
+    {
+      "id": "a2-d4", "title": "Weekend plans", "titleZh": "周末计划", "scene": "两个朋友约周末活动",
+      "speakers": {"Kate": "f", "Jack": "m"},
+      "lines": [
+        {"s": "Kate", "en": "What are you doing this weekend?", "zh": "你这周末打算做什么？"},
+        {"s": "Jack", "en": "Nothing special. Why?", "zh": "没什么特别的。怎么了？"},
+        {"s": "Kate", "en": "I'm going hiking on Sunday. Would you like to come?", "zh": "我周日要去徒步。你想一起来吗？"},
+        {"s": "Jack", "en": "That sounds fun! Where are you going?", "zh": "听起来很有趣！去哪里？"},
+        {"s": "Kate", "en": "To Green Hill. It takes about three hours.", "zh": "去绿山。大概要三个小时。"},
+        {"s": "Jack", "en": "What time should we meet?", "zh": "我们几点见面？"},
+        {"s": "Kate", "en": "Let's meet at the bus stop at eight.", "zh": "八点在公交站见吧。"},
+        {"s": "Jack", "en": "That's a bit early, but OK. What should I bring?", "zh": "有点早，不过可以。我该带什么？"},
+        {"s": "Kate", "en": "Bring water, some snacks and comfortable shoes.", "zh": "带上水、一些零食和舒服的鞋。"},
+        {"s": "Jack", "en": "Got it. See you on Sunday!", "zh": "明白了。周日见！"}
+      ]
+    },
+    {
+      "id": "a2-d5", "title": "Checking in at a hotel", "titleZh": "酒店入住", "scene": "在酒店前台",
+      "speakers": {"Receptionist": "m", "Sara": "f"},
+      "lines": [
+        {"s": "Receptionist", "en": "Good evening. Welcome to the Park Hotel.", "zh": "晚上好。欢迎来到公园酒店。"},
+        {"s": "Sara", "en": "Hi. I have a reservation under the name Sara Wang.", "zh": "你好。我用王萨拉这个名字预订了房间。"},
+        {"s": "Receptionist", "en": "Let me see... Yes, a single room for three nights.", "zh": "我看一下……有的，单人间，住三晚。"},
+        {"s": "Sara", "en": "That's right. Is breakfast included?", "zh": "对。包含早餐吗？"},
+        {"s": "Receptionist", "en": "Yes, breakfast is from seven to ten in the restaurant.", "zh": "包含，早餐七点到十点在餐厅供应。"},
+        {"s": "Sara", "en": "Great. Is there Wi-Fi in the room?", "zh": "太好了。房间里有无线网络吗？"},
+        {"s": "Receptionist", "en": "Yes, it's free. The password is on your key card.", "zh": "有，免费的。密码在你的房卡上。"},
+        {"s": "Sara", "en": "Thanks. Which floor is my room on?", "zh": "谢谢。我的房间在几楼？"},
+        {"s": "Receptionist", "en": "Room 512, on the fifth floor. The lift is on your left.", "zh": "512号房，在五楼。电梯在你左边。"}
+      ]
+    }
+  ],
+  "listening": [
+    {
+      "id": "a2-l1", "title": "A message from a friend", "titleZh": "朋友的语音留言", "voice": "f",
+      "sentences": [
+        {"en": "Hi Tom, it's Julia.", "zh": "嗨，汤姆，我是朱莉娅。"},
+        {"en": "I'm calling about the cinema tonight.", "zh": "我打电话是说今晚看电影的事。"},
+        {"en": "The film starts at eight, not seven thirty.", "zh": "电影八点开始，不是七点半。"},
+        {"en": "Let's meet outside the cinema at a quarter to eight.", "zh": "我们七点四十五在电影院外面见吧。"},
+        {"en": "I've already bought the tickets, so you don't need to.", "zh": "我已经买好票了，所以你不用买了。"},
+        {"en": "After the film, we can get a pizza.", "zh": "看完电影我们可以去吃比萨。"},
+        {"en": "Call me back if there's a problem. Bye!", "zh": "如果有问题就给我回电话。拜拜！"}
+      ],
+      "questions": [
+        {"q": "What time does the film start?", "qZh": "电影几点开始？", "options": ["7:30", "7:45", "8:00"], "answer": 2},
+        {"q": "Who bought the tickets?", "qZh": "谁买了票？", "options": ["Julia", "Tom", "Nobody yet"], "answer": 0},
+        {"q": "What will they do after the film?", "qZh": "看完电影他们要做什么？", "options": ["Go home", "Eat pizza", "Go shopping"], "answer": 1}
+      ]
+    },
+    {
+      "id": "a2-l2", "title": "My last holiday", "titleZh": "我上次的假期", "voice": "m",
+      "sentences": [
+        {"en": "Last summer, I went to Spain with my family.", "zh": "去年夏天，我和家人去了西班牙。"},
+        {"en": "We stayed in a small hotel near the beach.", "zh": "我们住在海滩附近的一家小酒店。"},
+        {"en": "Every morning, we swam in the sea.", "zh": "每天早上我们都在海里游泳。"},
+        {"en": "In the afternoon, it was too hot, so we visited museums.", "zh": "下午太热了，所以我们去参观博物馆。"},
+        {"en": "The food was delicious, especially the seafood.", "zh": "食物很美味，尤其是海鲜。"},
+        {"en": "On the last day, my brother lost his phone on the beach.", "zh": "最后一天，我哥哥把手机丢在了海滩上。"},
+        {"en": "Luckily, a kind woman found it and gave it back.", "zh": "幸运的是，一位好心的女士找到并还给了他。"}
+      ],
+      "questions": [
+        {"q": "Where did they stay?", "qZh": "他们住在哪里？", "options": ["In a big hotel in the city", "In a small hotel near the beach", "With friends"], "answer": 1},
+        {"q": "Why did they visit museums in the afternoon?", "qZh": "为什么他们下午去博物馆？", "options": ["It was raining", "It was too hot", "The beach was closed"], "answer": 1},
+        {"q": "What happened on the last day?", "qZh": "最后一天发生了什么？", "options": ["His brother lost his phone", "They missed the plane", "He got sick"], "answer": 0}
+      ]
+    },
+    {
+      "id": "a2-l3", "title": "School announcement", "titleZh": "学校广播通知", "voice": "f",
+      "sentences": [
+        {"en": "Good morning, everyone. Here are today's announcements.", "zh": "大家早上好。下面是今天的通知。"},
+        {"en": "The library will close early today, at three o'clock.", "zh": "图书馆今天会提前关门，三点关。"},
+        {"en": "The football match is moved from Wednesday to Friday because of the rain.", "zh": "因为下雨，足球比赛从周三改到周五。"},
+        {"en": "Students who want to join the music club should see Mr. Brown in Room 14.", "zh": "想加入音乐社的同学请到14号教室找布朗老师。"},
+        {"en": "Finally, please remember to bring your sports clothes tomorrow.", "zh": "最后，请记得明天带上运动服。"}
+      ],
+      "questions": [
+        {"q": "When will the library close today?", "qZh": "图书馆今天几点关门？", "options": ["At two", "At three", "At five"], "answer": 1},
+        {"q": "When is the football match now?", "qZh": "足球比赛现在改在哪天？", "options": ["Wednesday", "Thursday", "Friday"], "answer": 2},
+        {"q": "Where is Mr. Brown?", "qZh": "布朗老师在哪里？", "options": ["Room 4", "Room 14", "Room 40"], "answer": 1}
+      ]
+    },
+    {
+      "id": "a2-l4", "title": "A new job", "titleZh": "新工作", "voice": "m",
+      "sentences": [
+        {"en": "Last month, I started a new job at a bookshop.", "zh": "上个月，我在一家书店开始了新工作。"},
+        {"en": "I work there four days a week.", "zh": "我每周在那里工作四天。"},
+        {"en": "My job is to help customers and put new books on the shelves.", "zh": "我的工作是帮助顾客，以及把新书放上书架。"},
+        {"en": "The best part is that I can read during my lunch break.", "zh": "最好的地方是我可以在午休时看书。"},
+        {"en": "The worst part is that I have to work on Saturdays.", "zh": "最不好的地方是我周六也要上班。"},
+        {"en": "But my boss is friendly, and I'm learning a lot.", "zh": "但我的老板很友好，而且我学到了很多。"}
+      ],
+      "questions": [
+        {"q": "How many days a week does he work?", "qZh": "他每周工作几天？", "options": ["Three", "Four", "Five"], "answer": 1},
+        {"q": "What does he like most about the job?", "qZh": "他最喜欢这份工作的哪一点？", "options": ["The money", "Reading at lunch", "Working on Saturdays"], "answer": 1},
+        {"q": "What does he say about his boss?", "qZh": "他怎么评价他的老板？", "options": ["Friendly", "Strict", "Always late"], "answer": 0}
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "a2-n1", "title": "Why do city birds fly away from women?", "titleZh": "为什么城市里的鸟见到女性就飞走？", "date": "2026-10-22", "category": "动物",
+      "source": {"name": "British Ecological Society", "url": "https://www.britishecologicalsociety.org/content/urban-birds-fear-women-more-than-men/"},
+      "sentences": [
+        {"en": "A new study shows that city birds are more afraid of women than men.", "zh": "一项新研究表明，城市里的鸟更害怕女性而不是男性。"},
+        {"en": "Researchers studied 37 kinds of birds in parks in five European countries.", "zh": "研究人员在五个欧洲国家的公园里研究了37种鸟。"},
+        {"en": "They included sparrows, blackbirds, magpies and pigeons.", "zh": "其中包括麻雀、乌鸫、喜鹊和鸽子。"},
+        {"en": "In each test, a man or a woman walked straight towards a bird.", "zh": "每次测试中，一名男性或女性径直走向一只鸟。"},
+        {"en": "The people were about the same height and wore the same clothes.", "zh": "这些人身高差不多，并且穿着同样的衣服。"},
+        {"en": "On average, men got about one metre closer before the birds flew away.", "zh": "平均来说，男性能比女性多靠近大约一米，鸟才飞走。"},
+        {"en": "The team did the test more than 2,700 times.", "zh": "研究团队做了2700多次测试。"},
+        {"en": "They still don't know why this happens.", "zh": "他们仍然不知道为什么会这样。"}
+      ]
+    },
+    {
+      "id": "a2-n2", "title": "Swiss glaciers are getting smaller", "titleZh": "瑞士冰川正在变小", "date": "2026-10-01", "category": "环境",
+      "source": {"name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years"},
+      "sentences": [
+        {"en": "Switzerland has many glaciers in its mountains.", "zh": "瑞士的山里有很多冰川。"},
+        {"en": "But they are melting very fast.", "zh": "但它们正在迅速融化。"},
+        {"en": "This year, they lost more than five percent of their ice.", "zh": "今年，它们失去了超过百分之五的冰。"},
+        {"en": "In the last five years, they lost almost twenty percent.", "zh": "在过去五年里，它们失去了将近百分之二十。"},
+        {"en": "The summer was very hot, and there was not much snow in winter.", "zh": "今年夏天非常热，而冬天又没下多少雪。"},
+        {"en": "Scientists say that climate change is the main reason.", "zh": "科学家说，气候变化是主要原因。"},
+        {"en": "Many people in Switzerland work in tourism, so this is a big problem.", "zh": "瑞士很多人从事旅游业，所以这是个大问题。"}
+      ]
+    },
+    {
+      "id": "a2-n3", "title": "Mars rover breaks a driving record", "titleZh": "火星车打破行驶纪录", "date": "2026-10-11", "category": "太空",
+      "source": {"name": "Guinness World Records", "url": "https://www.guinnessworldrecords.com/news/2026/10/nasas-perseverance-rover-breaks-the-record-for-longest-road-trip-on-mars"},
+      "sentences": [
+        {"en": "NASA's Perseverance rover has a new record.", "zh": "NASA的“毅力号”火星车创造了新纪录。"},
+        {"en": "It has now travelled more than 45 kilometres on Mars.", "zh": "它目前已在火星上行驶了超过45公里。"},
+        {"en": "The old record belonged to another NASA rover called Opportunity.", "zh": "旧纪录属于NASA的另一辆火星车“机遇号”。"},
+        {"en": "Opportunity drove about the same distance, but it needed fourteen years.", "zh": "“机遇号”行驶了差不多的距离，但用了十四年。"},
+        {"en": "Perseverance landed in 2021, so it is much faster.", "zh": "“毅力号”2021年着陆，所以快得多。"},
+        {"en": "It can drive by itself and find a safe way around rocks.", "zh": "它能自动驾驶，并找到绕开岩石的安全路线。"},
+        {"en": "Scientists hope it will find signs of very old life on Mars.", "zh": "科学家希望它能在火星上找到远古生命的迹象。"}
+      ]
+    }
+  ]
+}
